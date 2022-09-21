@@ -1,0 +1,8 @@
+D:\Code C#\VD ve string\VD ve String\VD ve String\bin\Debug\VD ve String.exe.config
+D:\Code C#\VD ve string\VD ve String\VD ve String\bin\Debug\VD ve String.exe
+D:\Code C#\VD ve string\VD ve String\VD ve String\bin\Debug\VD ve String.pdb
+D:\Code C#\VD ve string\VD ve String\VD ve String\obj\Debug\VD ve String.csproj.AssemblyReference.cache
+D:\Code C#\VD ve string\VD ve String\VD ve String\obj\Debug\VD ve String.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\VD ve string\VD ve String\VD ve String\obj\Debug\VD ve String.csproj.CoreCompileInputs.cache
+D:\Code C#\VD ve string\VD ve String\VD ve String\obj\Debug\VD ve String.exe
+D:\Code C#\VD ve string\VD ve String\VD ve String\obj\Debug\VD ve String.pdb

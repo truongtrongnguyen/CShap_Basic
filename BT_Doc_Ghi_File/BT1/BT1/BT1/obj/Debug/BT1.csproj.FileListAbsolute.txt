@@ -1,0 +1,8 @@
+D:\Code C#\BT_Doc_Ghi_File\BT1\BT1\BT1\bin\Debug\BT1.exe.config
+D:\Code C#\BT_Doc_Ghi_File\BT1\BT1\BT1\bin\Debug\BT1.exe
+D:\Code C#\BT_Doc_Ghi_File\BT1\BT1\BT1\bin\Debug\BT1.pdb
+D:\Code C#\BT_Doc_Ghi_File\BT1\BT1\BT1\obj\Debug\BT1.csproj.AssemblyReference.cache
+D:\Code C#\BT_Doc_Ghi_File\BT1\BT1\BT1\obj\Debug\BT1.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\BT_Doc_Ghi_File\BT1\BT1\BT1\obj\Debug\BT1.csproj.CoreCompileInputs.cache
+D:\Code C#\BT_Doc_Ghi_File\BT1\BT1\BT1\obj\Debug\BT1.exe
+D:\Code C#\BT_Doc_Ghi_File\BT1\BT1\BT1\obj\Debug\BT1.pdb

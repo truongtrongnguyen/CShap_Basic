@@ -1,0 +1,24 @@
+D:\Code C#\BT_trang_trai\BT_OOP\BT_OOP\bin\Debug\BT_OOP.exe.config
+D:\Code C#\BT_trang_trai\BT_OOP\BT_OOP\bin\Debug\BT_OOP.exe
+D:\Code C#\BT_trang_trai\BT_OOP\BT_OOP\bin\Debug\BT_OOP.pdb
+D:\Code C#\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.csproj.AssemblyReference.cache
+D:\Code C#\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.csproj.CoreCompileInputs.cache
+D:\Code C#\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.exe
+D:\Code C#\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.pdb
+D:\Code C#\Lap trinh huong doi tuong\BT_trang_trai\BT_OOP\BT_OOP\bin\Debug\BT_OOP.exe.config
+D:\Code C#\Lap trinh huong doi tuong\BT_trang_trai\BT_OOP\BT_OOP\bin\Debug\BT_OOP.exe
+D:\Code C#\Lap trinh huong doi tuong\BT_trang_trai\BT_OOP\BT_OOP\bin\Debug\BT_OOP.pdb
+D:\Code C#\Lap trinh huong doi tuong\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.csproj.AssemblyReference.cache
+D:\Code C#\Lap trinh huong doi tuong\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Lap trinh huong doi tuong\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.csproj.CoreCompileInputs.cache
+D:\Code C#\Lap trinh huong doi tuong\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.exe
+D:\Code C#\Lap trinh huong doi tuong\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.pdb
+D:\Code C#\Lap_trinh_huong_doi_tuong\BT_trang_trai\BT_OOP\BT_OOP\bin\Debug\BT_OOP.exe.config
+D:\Code C#\Lap_trinh_huong_doi_tuong\BT_trang_trai\BT_OOP\BT_OOP\bin\Debug\BT_OOP.exe
+D:\Code C#\Lap_trinh_huong_doi_tuong\BT_trang_trai\BT_OOP\BT_OOP\bin\Debug\BT_OOP.pdb
+D:\Code C#\Lap_trinh_huong_doi_tuong\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.csproj.AssemblyReference.cache
+D:\Code C#\Lap_trinh_huong_doi_tuong\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Lap_trinh_huong_doi_tuong\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.csproj.CoreCompileInputs.cache
+D:\Code C#\Lap_trinh_huong_doi_tuong\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.exe
+D:\Code C#\Lap_trinh_huong_doi_tuong\BT_trang_trai\BT_OOP\BT_OOP\obj\Debug\BT_OOP.pdb

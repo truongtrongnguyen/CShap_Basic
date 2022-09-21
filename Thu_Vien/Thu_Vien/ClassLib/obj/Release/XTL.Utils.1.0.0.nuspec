@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>XTL.Utils</id>
+    <version>1.0.0</version>
+    <authors>XUANTHULAB.NET</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Code C#\Thu_Vien\Thu_Vien\ClassLib\bin\Release\netcoreapp3.1\ClassLib.dll" target="lib\netcoreapp3.1\ClassLib.dll" />
+  </files>
+</package>

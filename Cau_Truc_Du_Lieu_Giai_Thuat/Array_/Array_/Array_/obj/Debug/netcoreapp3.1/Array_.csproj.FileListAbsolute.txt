@@ -1,0 +1,14 @@
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\bin\Debug\netcoreapp3.1\Array_.exe
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\bin\Debug\netcoreapp3.1\Array_.deps.json
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\bin\Debug\netcoreapp3.1\Array_.runtimeconfig.json
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\bin\Debug\netcoreapp3.1\Array_.runtimeconfig.dev.json
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\bin\Debug\netcoreapp3.1\Array_.dll
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\bin\Debug\netcoreapp3.1\Array_.pdb
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\obj\Debug\netcoreapp3.1\Array_.csproj.AssemblyReference.cache
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\obj\Debug\netcoreapp3.1\Array_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\obj\Debug\netcoreapp3.1\Array_.AssemblyInfoInputs.cache
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\obj\Debug\netcoreapp3.1\Array_.AssemblyInfo.cs
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\obj\Debug\netcoreapp3.1\Array_.csproj.CoreCompileInputs.cache
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\obj\Debug\netcoreapp3.1\Array_.dll
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\obj\Debug\netcoreapp3.1\Array_.pdb
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Array_\Array_\Array_\obj\Debug\netcoreapp3.1\Array_.genruntimeconfig.cache

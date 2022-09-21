@@ -1,0 +1,8 @@
+D:\Code C#\Nap chong toan tu operator\Nap chong toan tu operator\Nap chong toan tu operator\bin\Debug\Nap chong toan tu operator.exe.config
+D:\Code C#\Nap chong toan tu operator\Nap chong toan tu operator\Nap chong toan tu operator\bin\Debug\Nap chong toan tu operator.exe
+D:\Code C#\Nap chong toan tu operator\Nap chong toan tu operator\Nap chong toan tu operator\bin\Debug\Nap chong toan tu operator.pdb
+D:\Code C#\Nap chong toan tu operator\Nap chong toan tu operator\Nap chong toan tu operator\obj\Debug\Nap chong toan tu operator.csproj.AssemblyReference.cache
+D:\Code C#\Nap chong toan tu operator\Nap chong toan tu operator\Nap chong toan tu operator\obj\Debug\Nap chong toan tu operator.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Nap chong toan tu operator\Nap chong toan tu operator\Nap chong toan tu operator\obj\Debug\Nap chong toan tu operator.csproj.CoreCompileInputs.cache
+D:\Code C#\Nap chong toan tu operator\Nap chong toan tu operator\Nap chong toan tu operator\obj\Debug\Nap chong toan tu operator.exe
+D:\Code C#\Nap chong toan tu operator\Nap chong toan tu operator\Nap chong toan tu operator\obj\Debug\Nap chong toan tu operator.pdb

@@ -1,0 +1,8 @@
+D:\Code C#\VD ve Struct\VD ve struct\VD ve struct\bin\Debug\VD ve struct.exe.config
+D:\Code C#\VD ve Struct\VD ve struct\VD ve struct\bin\Debug\VD ve struct.exe
+D:\Code C#\VD ve Struct\VD ve struct\VD ve struct\bin\Debug\VD ve struct.pdb
+D:\Code C#\VD ve Struct\VD ve struct\VD ve struct\obj\Debug\VD ve struct.csproj.AssemblyReference.cache
+D:\Code C#\VD ve Struct\VD ve struct\VD ve struct\obj\Debug\VD ve struct.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\VD ve Struct\VD ve struct\VD ve struct\obj\Debug\VD ve struct.csproj.CoreCompileInputs.cache
+D:\Code C#\VD ve Struct\VD ve struct\VD ve struct\obj\Debug\VD ve struct.exe
+D:\Code C#\VD ve Struct\VD ve struct\VD ve struct\obj\Debug\VD ve struct.pdb

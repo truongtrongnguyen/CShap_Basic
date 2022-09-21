@@ -1,0 +1,136 @@
+[
+  {
+    "StudentList": [
+      {
+        "Fullname": "Tran Van A",
+        "Birthday": "01-01-19991",
+        "Email": "tranvana@gmail.com",
+        "Gender": "Nam",
+        "Address": "Nam Dinh"
+      },
+      {
+        "Fullname": "Tran Van A",
+        "Birthday": "01-01-19991",
+        "Email": "tranvana@gmail.com",
+        "Gender": "Nam",
+        "Address": "Nam Dinh"
+      },
+      {
+        "Fullname": "Tran Van A",
+        "Birthday": "01-01-19991",
+        "Email": "tranvana@gmail.com",
+        "Gender": "Nam",
+        "Address": "Nam Dinh"
+      }
+    ],
+    "Name": "T1801A",
+    "Address": "Detech Building"
+  },
+  {
+    "StudentList": [
+      {
+        "Fullname": "Tran Van A",
+        "Birthday": "01-01-19991",
+        "Email": "tranvana@gmail.com",
+        "Gender": "Nam",
+        "Address": "Nam Dinh"
+      },
+      {
+        "Fullname": "Tran Van A",
+        "Birthday": "01-01-19991",
+        "Email": "tranvana@gmail.com",
+        "Gender": "Nam",
+        "Address": "Nam Dinh"
+      },
+      {
+        "Fullname": "Tran Van A",
+        "Birthday": "01-01-19991",
+        "Email": "tranvana@gmail.com",
+        "Gender": "Nam",
+        "Address": "Nam Dinh"
+      }
+    ],
+    "Name": "T1804M",
+    "Address": "Detech Building"
+  },
+  {
+    "StudentList": [
+      {
+        "Fullname": "123",
+        "Birthday": "123",
+        "Email": "123",
+        "Gender": "123",
+        "Address": "123"
+      },
+      {
+        "Fullname": "234",
+        "Birthday": "234",
+        "Email": "234",
+        "Gender": "234",
+        "Address": "234"
+      }
+    ],
+    "Name": "123",
+    "Address": "123"
+  },
+  {
+    "StudentList": [
+      {
+        "Fullname": "567",
+        "Birthday": "567",
+        "Email": "567",
+        "Gender": "567",
+        "Address": "567"
+      },
+      {
+        "Fullname": "789",
+        "Birthday": "789",
+        "Email": "789",
+        "Gender": "789",
+        "Address": "789"
+      }
+    ],
+    "Name": "456",
+    "Address": "456"
+  },
+  {
+    "StudentList": [
+      {
+        "Fullname": "Trong Nguyen",
+        "Birthday": "12-2-2020",
+        "Email": "tronggnuyenkhanhhung@gmail.com",
+        "Gender": "nam",
+        "Address": "nvc"
+      },
+      {
+        "Fullname": "asdadfg",
+        "Birthday": "23423",
+        "Email": "afda",
+        "Gender": "sdf",
+        "Address": "asdf"
+      }
+    ],
+    "Name": "12C2",
+    "Address": "Khanh Hung"
+  },
+  {
+    "StudentList": [
+      {
+        "Fullname": "1",
+        "Birthday": "1",
+        "Email": "1",
+        "Gender": "1",
+        "Address": "1"
+      },
+      {
+        "Fullname": "2",
+        "Birthday": "2",
+        "Email": "2",
+        "Gender": "2",
+        "Address": "2"
+      }
+    ],
+    "Name": "10C3",
+    "Address": "Khanh hung"
+  }
+]

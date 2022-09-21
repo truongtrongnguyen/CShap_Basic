@@ -1,0 +1,8 @@
+D:\Code C#\Lap trinh huong doi tuong\QL_Khach_San\QL_Khach_San\QL_Khach_San\bin\Debug\QL_Khach_San.exe.config
+D:\Code C#\Lap trinh huong doi tuong\QL_Khach_San\QL_Khach_San\QL_Khach_San\bin\Debug\QL_Khach_San.exe
+D:\Code C#\Lap trinh huong doi tuong\QL_Khach_San\QL_Khach_San\QL_Khach_San\bin\Debug\QL_Khach_San.pdb
+D:\Code C#\Lap trinh huong doi tuong\QL_Khach_San\QL_Khach_San\QL_Khach_San\obj\Debug\QL_Khach_San.csproj.AssemblyReference.cache
+D:\Code C#\Lap trinh huong doi tuong\QL_Khach_San\QL_Khach_San\QL_Khach_San\obj\Debug\QL_Khach_San.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Lap trinh huong doi tuong\QL_Khach_San\QL_Khach_San\QL_Khach_San\obj\Debug\QL_Khach_San.csproj.CoreCompileInputs.cache
+D:\Code C#\Lap trinh huong doi tuong\QL_Khach_San\QL_Khach_San\QL_Khach_San\obj\Debug\QL_Khach_San.exe
+D:\Code C#\Lap trinh huong doi tuong\QL_Khach_San\QL_Khach_San\QL_Khach_San\obj\Debug\QL_Khach_San.pdb

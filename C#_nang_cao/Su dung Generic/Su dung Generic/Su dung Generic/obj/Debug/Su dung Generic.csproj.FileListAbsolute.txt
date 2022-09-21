@@ -1,0 +1,8 @@
+D:\Code C#\C# nang cao\Su dung Generic\Su dung Generic\Su dung Generic\bin\Debug\Su dung Generic.exe.config
+D:\Code C#\C# nang cao\Su dung Generic\Su dung Generic\Su dung Generic\bin\Debug\Su dung Generic.exe
+D:\Code C#\C# nang cao\Su dung Generic\Su dung Generic\Su dung Generic\bin\Debug\Su dung Generic.pdb
+D:\Code C#\C# nang cao\Su dung Generic\Su dung Generic\Su dung Generic\obj\Debug\Su dung Generic.csproj.AssemblyReference.cache
+D:\Code C#\C# nang cao\Su dung Generic\Su dung Generic\Su dung Generic\obj\Debug\Su dung Generic.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\C# nang cao\Su dung Generic\Su dung Generic\Su dung Generic\obj\Debug\Su dung Generic.csproj.CoreCompileInputs.cache
+D:\Code C#\C# nang cao\Su dung Generic\Su dung Generic\Su dung Generic\obj\Debug\Su dung Generic.exe
+D:\Code C#\C# nang cao\Su dung Generic\Su dung Generic\Su dung Generic\obj\Debug\Su dung Generic.pdb

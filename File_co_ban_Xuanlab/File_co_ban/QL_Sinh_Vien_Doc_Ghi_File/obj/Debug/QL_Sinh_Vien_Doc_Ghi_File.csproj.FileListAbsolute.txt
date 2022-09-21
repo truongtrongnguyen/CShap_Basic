@@ -1,0 +1,11 @@
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\bin\Debug\QL_Sinh_Vien_Doc_Ghi_File.exe.config
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\bin\Debug\QL_Sinh_Vien_Doc_Ghi_File.exe
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\bin\Debug\QL_Sinh_Vien_Doc_Ghi_File.pdb
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\obj\Debug\QL_Sinh_Vien_Doc_Ghi_File.csproj.AssemblyReference.cache
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\obj\Debug\QL_Sinh_Vien_Doc_Ghi_File.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\obj\Debug\QL_Sinh_Vien_Doc_Ghi_File.csproj.CoreCompileInputs.cache
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\obj\Debug\QL_Sinh_Vien_Doc_Ghi_File.exe
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\obj\Debug\QL_Sinh_Vien_Doc_Ghi_File.pdb
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\bin\Debug\Newtonsoft.Json.dll
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\bin\Debug\Newtonsoft.Json.xml
+D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\obj\Debug\QL_Sinh_Vien_Doc_Ghi_File.csproj.CopyComplete

@@ -1,0 +1,8 @@
+D:\Code C#\Lap trinh huong doi tuong\QL_NV\QL_NV\QL_NV\bin\Debug\QL_NV.exe.config
+D:\Code C#\Lap trinh huong doi tuong\QL_NV\QL_NV\QL_NV\bin\Debug\QL_NV.exe
+D:\Code C#\Lap trinh huong doi tuong\QL_NV\QL_NV\QL_NV\bin\Debug\QL_NV.pdb
+D:\Code C#\Lap trinh huong doi tuong\QL_NV\QL_NV\QL_NV\obj\Debug\QL_NV.csproj.AssemblyReference.cache
+D:\Code C#\Lap trinh huong doi tuong\QL_NV\QL_NV\QL_NV\obj\Debug\QL_NV.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Lap trinh huong doi tuong\QL_NV\QL_NV\QL_NV\obj\Debug\QL_NV.csproj.CoreCompileInputs.cache
+D:\Code C#\Lap trinh huong doi tuong\QL_NV\QL_NV\QL_NV\obj\Debug\QL_NV.exe
+D:\Code C#\Lap trinh huong doi tuong\QL_NV\QL_NV\QL_NV\obj\Debug\QL_NV.pdb

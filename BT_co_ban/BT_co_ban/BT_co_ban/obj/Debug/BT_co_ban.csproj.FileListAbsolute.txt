@@ -1,0 +1,8 @@
+D:\Code C#\BT_co_ban\BT_co_ban\BT_co_ban\bin\Debug\BT_co_ban.exe.config
+D:\Code C#\BT_co_ban\BT_co_ban\BT_co_ban\bin\Debug\BT_co_ban.exe
+D:\Code C#\BT_co_ban\BT_co_ban\BT_co_ban\bin\Debug\BT_co_ban.pdb
+D:\Code C#\BT_co_ban\BT_co_ban\BT_co_ban\obj\Debug\BT_co_ban.csproj.AssemblyReference.cache
+D:\Code C#\BT_co_ban\BT_co_ban\BT_co_ban\obj\Debug\BT_co_ban.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\BT_co_ban\BT_co_ban\BT_co_ban\obj\Debug\BT_co_ban.csproj.CoreCompileInputs.cache
+D:\Code C#\BT_co_ban\BT_co_ban\BT_co_ban\obj\Debug\BT_co_ban.exe
+D:\Code C#\BT_co_ban\BT_co_ban\BT_co_ban\obj\Debug\BT_co_ban.pdb

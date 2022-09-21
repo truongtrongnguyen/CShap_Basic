@@ -1,0 +1,16 @@
+D:\Code C#\BT_OOP\QL_Sach\QL_Sach\QL_Sach\bin\Debug\QL_Sach.exe.config
+D:\Code C#\BT_OOP\QL_Sach\QL_Sach\QL_Sach\bin\Debug\QL_Sach.exe
+D:\Code C#\BT_OOP\QL_Sach\QL_Sach\QL_Sach\bin\Debug\QL_Sach.pdb
+D:\Code C#\BT_OOP\QL_Sach\QL_Sach\QL_Sach\obj\Debug\QL_Sach.csproj.AssemblyReference.cache
+D:\Code C#\BT_OOP\QL_Sach\QL_Sach\QL_Sach\obj\Debug\QL_Sach.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\BT_OOP\QL_Sach\QL_Sach\QL_Sach\obj\Debug\QL_Sach.csproj.CoreCompileInputs.cache
+D:\Code C#\BT_OOP\QL_Sach\QL_Sach\QL_Sach\obj\Debug\QL_Sach.exe
+D:\Code C#\BT_OOP\QL_Sach\QL_Sach\QL_Sach\obj\Debug\QL_Sach.pdb
+D:\Code C#\Lap trinh huong doi tuong\QL_Sach\QL_Sach\QL_Sach\bin\Debug\QL_Sach.exe.config
+D:\Code C#\Lap trinh huong doi tuong\QL_Sach\QL_Sach\QL_Sach\bin\Debug\QL_Sach.exe
+D:\Code C#\Lap trinh huong doi tuong\QL_Sach\QL_Sach\QL_Sach\bin\Debug\QL_Sach.pdb
+D:\Code C#\Lap trinh huong doi tuong\QL_Sach\QL_Sach\QL_Sach\obj\Debug\QL_Sach.csproj.AssemblyReference.cache
+D:\Code C#\Lap trinh huong doi tuong\QL_Sach\QL_Sach\QL_Sach\obj\Debug\QL_Sach.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Lap trinh huong doi tuong\QL_Sach\QL_Sach\QL_Sach\obj\Debug\QL_Sach.csproj.CoreCompileInputs.cache
+D:\Code C#\Lap trinh huong doi tuong\QL_Sach\QL_Sach\QL_Sach\obj\Debug\QL_Sach.exe
+D:\Code C#\Lap trinh huong doi tuong\QL_Sach\QL_Sach\QL_Sach\obj\Debug\QL_Sach.pdb

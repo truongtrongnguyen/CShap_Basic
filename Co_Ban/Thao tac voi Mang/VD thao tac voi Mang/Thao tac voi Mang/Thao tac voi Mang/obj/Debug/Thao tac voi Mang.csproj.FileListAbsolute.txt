@@ -1,0 +1,8 @@
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Thao tac voi Mang\Thao tac voi Mang\bin\Debug\Thao tac voi Mang.exe.config
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Thao tac voi Mang\Thao tac voi Mang\bin\Debug\Thao tac voi Mang.exe
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Thao tac voi Mang\Thao tac voi Mang\bin\Debug\Thao tac voi Mang.pdb
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Thao tac voi Mang\Thao tac voi Mang\obj\Debug\Thao tac voi Mang.csproj.AssemblyReference.cache
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Thao tac voi Mang\Thao tac voi Mang\obj\Debug\Thao tac voi Mang.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Thao tac voi Mang\Thao tac voi Mang\obj\Debug\Thao tac voi Mang.csproj.CoreCompileInputs.cache
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Thao tac voi Mang\Thao tac voi Mang\obj\Debug\Thao tac voi Mang.exe
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Thao tac voi Mang\Thao tac voi Mang\obj\Debug\Thao tac voi Mang.pdb

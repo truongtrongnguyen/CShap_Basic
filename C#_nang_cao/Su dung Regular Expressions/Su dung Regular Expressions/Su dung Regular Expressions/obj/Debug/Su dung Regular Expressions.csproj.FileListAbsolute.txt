@@ -1,0 +1,8 @@
+D:\Code C#\C# nang cao\Su dung Regular Expressions\Su dung Regular Expressions\Su dung Regular Expressions\bin\Debug\Su dung Regular Expressions.exe.config
+D:\Code C#\C# nang cao\Su dung Regular Expressions\Su dung Regular Expressions\Su dung Regular Expressions\bin\Debug\Su dung Regular Expressions.exe
+D:\Code C#\C# nang cao\Su dung Regular Expressions\Su dung Regular Expressions\Su dung Regular Expressions\bin\Debug\Su dung Regular Expressions.pdb
+D:\Code C#\C# nang cao\Su dung Regular Expressions\Su dung Regular Expressions\Su dung Regular Expressions\obj\Debug\Su dung Regular Expressions.csproj.AssemblyReference.cache
+D:\Code C#\C# nang cao\Su dung Regular Expressions\Su dung Regular Expressions\Su dung Regular Expressions\obj\Debug\Su dung Regular Expressions.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\C# nang cao\Su dung Regular Expressions\Su dung Regular Expressions\Su dung Regular Expressions\obj\Debug\Su dung Regular Expressions.csproj.CoreCompileInputs.cache
+D:\Code C#\C# nang cao\Su dung Regular Expressions\Su dung Regular Expressions\Su dung Regular Expressions\obj\Debug\Su dung Regular Expressions.exe
+D:\Code C#\C# nang cao\Su dung Regular Expressions\Su dung Regular Expressions\Su dung Regular Expressions\obj\Debug\Su dung Regular Expressions.pdb

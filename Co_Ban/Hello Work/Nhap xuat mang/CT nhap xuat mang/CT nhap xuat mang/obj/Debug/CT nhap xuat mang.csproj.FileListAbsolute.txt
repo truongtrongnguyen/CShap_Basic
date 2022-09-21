@@ -1,0 +1,8 @@
+D:\Code C#\Hello Work\Nhap xuat mang\CT nhap xuat mang\CT nhap xuat mang\bin\Debug\CT nhap xuat mang.exe.config
+D:\Code C#\Hello Work\Nhap xuat mang\CT nhap xuat mang\CT nhap xuat mang\bin\Debug\CT nhap xuat mang.exe
+D:\Code C#\Hello Work\Nhap xuat mang\CT nhap xuat mang\CT nhap xuat mang\bin\Debug\CT nhap xuat mang.pdb
+D:\Code C#\Hello Work\Nhap xuat mang\CT nhap xuat mang\CT nhap xuat mang\obj\Debug\CT nhap xuat mang.csproj.AssemblyReference.cache
+D:\Code C#\Hello Work\Nhap xuat mang\CT nhap xuat mang\CT nhap xuat mang\obj\Debug\CT nhap xuat mang.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Hello Work\Nhap xuat mang\CT nhap xuat mang\CT nhap xuat mang\obj\Debug\CT nhap xuat mang.csproj.CoreCompileInputs.cache
+D:\Code C#\Hello Work\Nhap xuat mang\CT nhap xuat mang\CT nhap xuat mang\obj\Debug\CT nhap xuat mang.exe
+D:\Code C#\Hello Work\Nhap xuat mang\CT nhap xuat mang\CT nhap xuat mang\obj\Debug\CT nhap xuat mang.pdb

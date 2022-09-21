@@ -1,0 +1,8 @@
+D:\Code C#\Thao tac voi Mang\VD Arrry Trang 378 Giao trinh\VD Arrry Trang 378 Giao trinh\bin\Debug\VD Arrry Trang 378 Giao trinh.exe.config
+D:\Code C#\Thao tac voi Mang\VD Arrry Trang 378 Giao trinh\VD Arrry Trang 378 Giao trinh\bin\Debug\VD Arrry Trang 378 Giao trinh.exe
+D:\Code C#\Thao tac voi Mang\VD Arrry Trang 378 Giao trinh\VD Arrry Trang 378 Giao trinh\bin\Debug\VD Arrry Trang 378 Giao trinh.pdb
+D:\Code C#\Thao tac voi Mang\VD Arrry Trang 378 Giao trinh\VD Arrry Trang 378 Giao trinh\obj\Debug\VD Arrry Trang 378 Giao trinh.csproj.AssemblyReference.cache
+D:\Code C#\Thao tac voi Mang\VD Arrry Trang 378 Giao trinh\VD Arrry Trang 378 Giao trinh\obj\Debug\VD Arrry Trang 378 Giao trinh.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Thao tac voi Mang\VD Arrry Trang 378 Giao trinh\VD Arrry Trang 378 Giao trinh\obj\Debug\VD Arrry Trang 378 Giao trinh.csproj.CoreCompileInputs.cache
+D:\Code C#\Thao tac voi Mang\VD Arrry Trang 378 Giao trinh\VD Arrry Trang 378 Giao trinh\obj\Debug\VD Arrry Trang 378 Giao trinh.exe
+D:\Code C#\Thao tac voi Mang\VD Arrry Trang 378 Giao trinh\VD Arrry Trang 378 Giao trinh\obj\Debug\VD Arrry Trang 378 Giao trinh.pdb

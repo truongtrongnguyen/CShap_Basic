@@ -1,0 +1,8 @@
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Multithreading_async\bin\Debug\Multithreading_async.exe.config
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Multithreading_async\bin\Debug\Multithreading_async.exe
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Multithreading_async\bin\Debug\Multithreading_async.pdb
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Multithreading_async\obj\Debug\Multithreading_async.csproj.AssemblyReference.cache
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Multithreading_async\obj\Debug\Multithreading_async.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Multithreading_async\obj\Debug\Multithreading_async.csproj.CoreCompileInputs.cache
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Multithreading_async\obj\Debug\Multithreading_async.exe
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Multithreading_async\obj\Debug\Multithreading_async.pdb

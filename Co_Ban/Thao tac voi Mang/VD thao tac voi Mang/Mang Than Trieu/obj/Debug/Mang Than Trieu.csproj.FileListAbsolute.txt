@@ -1,0 +1,8 @@
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Mang Than Trieu\bin\Debug\Mang Than Trieu.exe.config
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Mang Than Trieu\bin\Debug\Mang Than Trieu.exe
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Mang Than Trieu\bin\Debug\Mang Than Trieu.pdb
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Mang Than Trieu\obj\Debug\Mang Than Trieu.csproj.AssemblyReference.cache
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Mang Than Trieu\obj\Debug\Mang Than Trieu.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Mang Than Trieu\obj\Debug\Mang Than Trieu.csproj.CoreCompileInputs.cache
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Mang Than Trieu\obj\Debug\Mang Than Trieu.exe
+D:\Code C#\Thao tac voi Mang\VD thao tac voi Mang\Mang Than Trieu\obj\Debug\Mang Than Trieu.pdb

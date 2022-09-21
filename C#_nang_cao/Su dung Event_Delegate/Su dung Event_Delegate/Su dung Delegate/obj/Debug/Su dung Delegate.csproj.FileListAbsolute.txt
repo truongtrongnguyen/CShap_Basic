@@ -1,0 +1,16 @@
+D:\Code C#\C# nang cao\Su dung Delegate\Su dung Delegate\Su dung Delegate\bin\Debug\Su dung Delegate.exe.config
+D:\Code C#\C# nang cao\Su dung Delegate\Su dung Delegate\Su dung Delegate\bin\Debug\Su dung Delegate.exe
+D:\Code C#\C# nang cao\Su dung Delegate\Su dung Delegate\Su dung Delegate\bin\Debug\Su dung Delegate.pdb
+D:\Code C#\C# nang cao\Su dung Delegate\Su dung Delegate\Su dung Delegate\obj\Debug\Su dung Delegate.csproj.AssemblyReference.cache
+D:\Code C#\C# nang cao\Su dung Delegate\Su dung Delegate\Su dung Delegate\obj\Debug\Su dung Delegate.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\C# nang cao\Su dung Delegate\Su dung Delegate\Su dung Delegate\obj\Debug\Su dung Delegate.csproj.CoreCompileInputs.cache
+D:\Code C#\C# nang cao\Su dung Delegate\Su dung Delegate\Su dung Delegate\obj\Debug\Su dung Delegate.exe
+D:\Code C#\C# nang cao\Su dung Delegate\Su dung Delegate\Su dung Delegate\obj\Debug\Su dung Delegate.pdb
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Su dung Delegate\bin\Debug\Su dung Delegate.exe.config
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Su dung Delegate\bin\Debug\Su dung Delegate.exe
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Su dung Delegate\bin\Debug\Su dung Delegate.pdb
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Su dung Delegate\obj\Debug\Su dung Delegate.csproj.AssemblyReference.cache
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Su dung Delegate\obj\Debug\Su dung Delegate.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Su dung Delegate\obj\Debug\Su dung Delegate.csproj.CoreCompileInputs.cache
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Su dung Delegate\obj\Debug\Su dung Delegate.exe
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Su dung Delegate\obj\Debug\Su dung Delegate.pdb

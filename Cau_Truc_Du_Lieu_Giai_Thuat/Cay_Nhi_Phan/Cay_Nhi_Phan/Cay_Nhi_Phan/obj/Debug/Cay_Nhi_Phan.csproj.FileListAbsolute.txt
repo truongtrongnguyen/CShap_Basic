@@ -1,0 +1,8 @@
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cay_Nhi_Phan\Cay_Nhi_Phan\Cay_Nhi_Phan\bin\Debug\Cay_Nhi_Phan.exe.config
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cay_Nhi_Phan\Cay_Nhi_Phan\Cay_Nhi_Phan\bin\Debug\Cay_Nhi_Phan.exe
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cay_Nhi_Phan\Cay_Nhi_Phan\Cay_Nhi_Phan\bin\Debug\Cay_Nhi_Phan.pdb
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cay_Nhi_Phan\Cay_Nhi_Phan\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan.csproj.AssemblyReference.cache
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cay_Nhi_Phan\Cay_Nhi_Phan\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cay_Nhi_Phan\Cay_Nhi_Phan\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan.csproj.CoreCompileInputs.cache
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cay_Nhi_Phan\Cay_Nhi_Phan\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan.exe
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cay_Nhi_Phan\Cay_Nhi_Phan\Cay_Nhi_Phan\obj\Debug\Cay_Nhi_Phan.pdb

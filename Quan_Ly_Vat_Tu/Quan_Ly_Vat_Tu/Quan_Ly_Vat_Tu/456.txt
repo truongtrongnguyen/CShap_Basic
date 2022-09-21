@@ -1,0 +1,8 @@
+VT0989,Vat Tu 1,Cai,18,False
+VT0989,Vat Tu 2,Cai,18,True
+VT0989,Vat Tu 3,Cai,18,True
+VT0989,Vat Tu 4,Cai,18,False
+VT5537,VT1666 ,123,123,False
+VT7676,Quat Gio ,Cai,34,False
+VT7103,Tu Lanh ,Cai,100,False
+VT5264,Laptop ,Cai,20,False

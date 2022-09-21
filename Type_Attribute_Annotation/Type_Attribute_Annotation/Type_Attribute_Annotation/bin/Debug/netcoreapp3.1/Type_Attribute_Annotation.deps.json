@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Type_Attribute_Annotation/1.0.0": {
+        "dependencies": {
+          "XTL.Utils": "1.0.0"
+        },
+        "runtime": {
+          "Type_Attribute_Annotation.dll": {}
+        }
+      },
+      "XTL.Utils/1.0.0": {
+        "runtime": {
+          "ClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Type_Attribute_Annotation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XTL.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

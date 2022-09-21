@@ -1,0 +1,8 @@
+D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\bin\Debug\Test.exe.config
+D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\bin\Debug\Test.exe
+D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\bin\Debug\Test.pdb
+D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\obj\Debug\Test.exe
+D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\obj\Debug\Test.pdb

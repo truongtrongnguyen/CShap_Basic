@@ -1,0 +1,8 @@
+D:\Code C#\Lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\bin\Debug\VD ve lap trinh huong doi tuong.exe.config
+D:\Code C#\Lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\bin\Debug\VD ve lap trinh huong doi tuong.exe
+D:\Code C#\Lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\bin\Debug\VD ve lap trinh huong doi tuong.pdb
+D:\Code C#\Lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\obj\Debug\VD ve lap trinh huong doi tuong.csproj.AssemblyReference.cache
+D:\Code C#\Lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\obj\Debug\VD ve lap trinh huong doi tuong.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\obj\Debug\VD ve lap trinh huong doi tuong.csproj.CoreCompileInputs.cache
+D:\Code C#\Lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\obj\Debug\VD ve lap trinh huong doi tuong.exe
+D:\Code C#\Lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\VD ve lap trinh huong doi tuong\obj\Debug\VD ve lap trinh huong doi tuong.pdb

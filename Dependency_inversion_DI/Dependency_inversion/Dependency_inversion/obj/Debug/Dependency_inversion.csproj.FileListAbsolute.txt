@@ -1,0 +1,8 @@
+D:\Code C#\Dependency_inversion_DI\Dependency_inversion\Dependency_inversion\bin\Debug\Dependency_inversion.exe.config
+D:\Code C#\Dependency_inversion_DI\Dependency_inversion\Dependency_inversion\bin\Debug\Dependency_inversion.exe
+D:\Code C#\Dependency_inversion_DI\Dependency_inversion\Dependency_inversion\bin\Debug\Dependency_inversion.pdb
+D:\Code C#\Dependency_inversion_DI\Dependency_inversion\Dependency_inversion\obj\Debug\Dependency_inversion.csproj.AssemblyReference.cache
+D:\Code C#\Dependency_inversion_DI\Dependency_inversion\Dependency_inversion\obj\Debug\Dependency_inversion.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Dependency_inversion_DI\Dependency_inversion\Dependency_inversion\obj\Debug\Dependency_inversion.csproj.CoreCompileInputs.cache
+D:\Code C#\Dependency_inversion_DI\Dependency_inversion\Dependency_inversion\obj\Debug\Dependency_inversion.exe
+D:\Code C#\Dependency_inversion_DI\Dependency_inversion\Dependency_inversion\obj\Debug\Dependency_inversion.pdb

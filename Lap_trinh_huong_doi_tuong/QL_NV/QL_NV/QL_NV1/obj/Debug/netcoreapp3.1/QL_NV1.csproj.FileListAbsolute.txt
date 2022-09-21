@@ -1,0 +1,14 @@
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\bin\Debug\netcoreapp3.1\QL_NV1.exe
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\bin\Debug\netcoreapp3.1\QL_NV1.deps.json
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\bin\Debug\netcoreapp3.1\QL_NV1.runtimeconfig.json
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\bin\Debug\netcoreapp3.1\QL_NV1.runtimeconfig.dev.json
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\bin\Debug\netcoreapp3.1\QL_NV1.dll
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\bin\Debug\netcoreapp3.1\QL_NV1.pdb
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\obj\Debug\netcoreapp3.1\QL_NV1.csproj.AssemblyReference.cache
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\obj\Debug\netcoreapp3.1\QL_NV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\obj\Debug\netcoreapp3.1\QL_NV1.AssemblyInfoInputs.cache
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\obj\Debug\netcoreapp3.1\QL_NV1.AssemblyInfo.cs
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\obj\Debug\netcoreapp3.1\QL_NV1.csproj.CoreCompileInputs.cache
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\obj\Debug\netcoreapp3.1\QL_NV1.dll
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\obj\Debug\netcoreapp3.1\QL_NV1.pdb
+D:\Code C#\Lap_trinh_huong_doi_tuong\QL_NV\QL_NV\QL_NV1\obj\Debug\netcoreapp3.1\QL_NV1.genruntimeconfig.cache

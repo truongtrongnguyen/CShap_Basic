@@ -1,0 +1,8 @@
+D:\Code C#\Su_dung_try_catch\Su_dung_try_catch\Su_dung_try_catch\bin\Debug\Su_dung_try_catch.exe.config
+D:\Code C#\Su_dung_try_catch\Su_dung_try_catch\Su_dung_try_catch\bin\Debug\Su_dung_try_catch.exe
+D:\Code C#\Su_dung_try_catch\Su_dung_try_catch\Su_dung_try_catch\bin\Debug\Su_dung_try_catch.pdb
+D:\Code C#\Su_dung_try_catch\Su_dung_try_catch\Su_dung_try_catch\obj\Debug\Su_dung_try_catch.csproj.AssemblyReference.cache
+D:\Code C#\Su_dung_try_catch\Su_dung_try_catch\Su_dung_try_catch\obj\Debug\Su_dung_try_catch.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Su_dung_try_catch\Su_dung_try_catch\Su_dung_try_catch\obj\Debug\Su_dung_try_catch.csproj.CoreCompileInputs.cache
+D:\Code C#\Su_dung_try_catch\Su_dung_try_catch\Su_dung_try_catch\obj\Debug\Su_dung_try_catch.exe
+D:\Code C#\Su_dung_try_catch\Su_dung_try_catch\Su_dung_try_catch\obj\Debug\Su_dung_try_catch.pdb

@@ -1,0 +1,8 @@
+D:\Code C#\Hello Work\Hello Work!\Hello Work!\bin\Debug\Hello Work!.exe.config
+D:\Code C#\Hello Work\Hello Work!\Hello Work!\bin\Debug\Hello Work!.exe
+D:\Code C#\Hello Work\Hello Work!\Hello Work!\bin\Debug\Hello Work!.pdb
+D:\Code C#\Hello Work\Hello Work!\Hello Work!\obj\Debug\Hello Work!.csproj.AssemblyReference.cache
+D:\Code C#\Hello Work\Hello Work!\Hello Work!\obj\Debug\Hello Work!.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Hello Work\Hello Work!\Hello Work!\obj\Debug\Hello Work!.csproj.CoreCompileInputs.cache
+D:\Code C#\Hello Work\Hello Work!\Hello Work!\obj\Debug\Hello Work!.exe
+D:\Code C#\Hello Work\Hello Work!\Hello Work!\obj\Debug\Hello Work!.pdb

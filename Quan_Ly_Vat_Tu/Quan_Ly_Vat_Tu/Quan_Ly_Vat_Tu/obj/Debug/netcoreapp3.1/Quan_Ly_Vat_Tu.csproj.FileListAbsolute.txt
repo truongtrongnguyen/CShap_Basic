@@ -1,0 +1,16 @@
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\bin\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.exe
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\bin\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.deps.json
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\bin\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.runtimeconfig.json
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\bin\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.runtimeconfig.dev.json
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\bin\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.dll
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\bin\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.pdb
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\obj\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.csproj.AssemblyReference.cache
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\obj\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\obj\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.AssemblyInfoInputs.cache
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\obj\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.AssemblyInfo.cs
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\obj\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.csproj.CoreCompileInputs.cache
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\obj\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.dll
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\obj\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.pdb
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\obj\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.genruntimeconfig.cache
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\obj\Debug\netcoreapp3.1\Quan_Ly_Vat_Tu.csproj.CopyComplete

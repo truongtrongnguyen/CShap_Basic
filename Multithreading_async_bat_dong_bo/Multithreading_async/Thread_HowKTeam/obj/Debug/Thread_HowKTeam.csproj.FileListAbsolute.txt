@@ -1,0 +1,8 @@
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Thread_HowKTeam\bin\Debug\Thread_HowKTeam.exe.config
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Thread_HowKTeam\bin\Debug\Thread_HowKTeam.exe
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Thread_HowKTeam\bin\Debug\Thread_HowKTeam.pdb
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Thread_HowKTeam\obj\Debug\Thread_HowKTeam.csproj.AssemblyReference.cache
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Thread_HowKTeam\obj\Debug\Thread_HowKTeam.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Thread_HowKTeam\obj\Debug\Thread_HowKTeam.csproj.CoreCompileInputs.cache
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Thread_HowKTeam\obj\Debug\Thread_HowKTeam.exe
+D:\Code C#\Multithreading_async_bat_dong_bo\Multithreading_async\Thread_HowKTeam\obj\Debug\Thread_HowKTeam.pdb

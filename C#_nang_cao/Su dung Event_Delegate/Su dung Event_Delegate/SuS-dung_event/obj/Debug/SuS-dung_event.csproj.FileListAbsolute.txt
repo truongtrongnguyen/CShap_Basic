@@ -1,0 +1,8 @@
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\SuS-dung_event\bin\Debug\SuS-dung_event.exe.config
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\SuS-dung_event\bin\Debug\SuS-dung_event.exe
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\SuS-dung_event\bin\Debug\SuS-dung_event.pdb
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\SuS-dung_event\obj\Debug\SuS-dung_event.csproj.AssemblyReference.cache
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\SuS-dung_event\obj\Debug\SuS-dung_event.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\SuS-dung_event\obj\Debug\SuS-dung_event.csproj.CoreCompileInputs.cache
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\SuS-dung_event\obj\Debug\SuS-dung_event.exe
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\SuS-dung_event\obj\Debug\SuS-dung_event.pdb

@@ -1,0 +1,8 @@
+D:\Code C#\VD Phuong thuc ao virtual_override\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\bin\Debug\Phuong thuc truu tuong abstract.exe.config
+D:\Code C#\VD Phuong thuc ao virtual_override\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\bin\Debug\Phuong thuc truu tuong abstract.exe
+D:\Code C#\VD Phuong thuc ao virtual_override\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\bin\Debug\Phuong thuc truu tuong abstract.pdb
+D:\Code C#\VD Phuong thuc ao virtual_override\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\obj\Debug\Phuong thuc truu tuong abstract.csproj.AssemblyReference.cache
+D:\Code C#\VD Phuong thuc ao virtual_override\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\obj\Debug\Phuong thuc truu tuong abstract.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\VD Phuong thuc ao virtual_override\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\obj\Debug\Phuong thuc truu tuong abstract.csproj.CoreCompileInputs.cache
+D:\Code C#\VD Phuong thuc ao virtual_override\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\obj\Debug\Phuong thuc truu tuong abstract.exe
+D:\Code C#\VD Phuong thuc ao virtual_override\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\Phuong thuc truu tuong abstract\obj\Debug\Phuong thuc truu tuong abstract.pdb

@@ -1,0 +1,17 @@
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\bin\Debug\netcoreapp3.1\Type_Attribute_Annotation.exe
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\bin\Debug\netcoreapp3.1\Type_Attribute_Annotation.deps.json
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\bin\Debug\netcoreapp3.1\Type_Attribute_Annotation.runtimeconfig.json
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\bin\Debug\netcoreapp3.1\Type_Attribute_Annotation.runtimeconfig.dev.json
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\bin\Debug\netcoreapp3.1\Type_Attribute_Annotation.dll
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\bin\Debug\netcoreapp3.1\Type_Attribute_Annotation.pdb
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\obj\Debug\netcoreapp3.1\Type_Attribute_Annotation.csproj.AssemblyReference.cache
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\obj\Debug\netcoreapp3.1\Type_Attribute_Annotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\obj\Debug\netcoreapp3.1\Type_Attribute_Annotation.AssemblyInfoInputs.cache
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\obj\Debug\netcoreapp3.1\Type_Attribute_Annotation.AssemblyInfo.cs
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\obj\Debug\netcoreapp3.1\Type_Attribute_Annotation.csproj.CoreCompileInputs.cache
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\obj\Debug\netcoreapp3.1\Type_Attribute_Annotation.dll
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\obj\Debug\netcoreapp3.1\Type_Attribute_Annotation.pdb
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\obj\Debug\netcoreapp3.1\Type_Attribute_Annotation.genruntimeconfig.cache
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\bin\Debug\netcoreapp3.1\ClassLib.dll
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\bin\Debug\netcoreapp3.1\ClassLib.pdb
+D:\Code C#\Type_Attribute_Annotation\Type_Attribute_Annotation\Type_Attribute_Annotation\obj\Debug\netcoreapp3.1\Type_Attribute_Annotation.csproj.CopyComplete

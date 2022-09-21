@@ -1,0 +1,14 @@
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\bin\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.exe
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\bin\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.deps.json
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\bin\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.runtimeconfig.json
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\bin\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.runtimeconfig.dev.json
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\bin\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.dll
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\bin\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.pdb
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\obj\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.csproj.AssemblyReference.cache
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\obj\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\obj\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.AssemblyInfoInputs.cache
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\obj\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.AssemblyInfo.cs
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\obj\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\obj\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.dll
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\obj\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.pdb
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\FatoryMethod_DesignPatten\obj\Debug\netcoreapp3.1\FatoryMethod_AbstractFactory.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Event_Ian\bin\Debug\Event_Ian.exe.config
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Event_Ian\bin\Debug\Event_Ian.exe
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Event_Ian\bin\Debug\Event_Ian.pdb
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Event_Ian\obj\Debug\Event_Ian.csproj.AssemblyReference.cache
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Event_Ian\obj\Debug\Event_Ian.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Event_Ian\obj\Debug\Event_Ian.csproj.CoreCompileInputs.cache
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Event_Ian\obj\Debug\Event_Ian.exe
+D:\Code C#\C# nang cao\Su dung Event_Delegate\Su dung Event_Delegate\Event_Ian\obj\Debug\Event_Ian.pdb

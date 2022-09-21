@@ -1,0 +1,14 @@
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\DesignPatten_Ticket.exe
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\DesignPatten_Ticket.deps.json
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\DesignPatten_Ticket.runtimeconfig.json
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\DesignPatten_Ticket.runtimeconfig.dev.json
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\DesignPatten_Ticket.dll
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\DesignPatten_Ticket.pdb
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\DesignPatten_Ticket.csproj.AssemblyReference.cache
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\DesignPatten_Ticket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\DesignPatten_Ticket.AssemblyInfoInputs.cache
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\DesignPatten_Ticket.AssemblyInfo.cs
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\DesignPatten_Ticket.csproj.CoreCompileInputs.cache
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\DesignPatten_Ticket.dll
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\DesignPatten_Ticket.pdb
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\DesignPatten_Ticket.genruntimeconfig.cache

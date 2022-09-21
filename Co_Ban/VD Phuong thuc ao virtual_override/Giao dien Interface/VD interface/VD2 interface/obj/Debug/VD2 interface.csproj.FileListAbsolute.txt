@@ -1,0 +1,8 @@
+D:\Code C#\VD Phuong thuc ao virtual_override\Giao dien Interface\VD interface\VD2 interface\bin\Debug\VD2 interface.exe.config
+D:\Code C#\VD Phuong thuc ao virtual_override\Giao dien Interface\VD interface\VD2 interface\bin\Debug\VD2 interface.exe
+D:\Code C#\VD Phuong thuc ao virtual_override\Giao dien Interface\VD interface\VD2 interface\bin\Debug\VD2 interface.pdb
+D:\Code C#\VD Phuong thuc ao virtual_override\Giao dien Interface\VD interface\VD2 interface\obj\Debug\VD2 interface.csproj.AssemblyReference.cache
+D:\Code C#\VD Phuong thuc ao virtual_override\Giao dien Interface\VD interface\VD2 interface\obj\Debug\VD2 interface.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\VD Phuong thuc ao virtual_override\Giao dien Interface\VD interface\VD2 interface\obj\Debug\VD2 interface.csproj.CoreCompileInputs.cache
+D:\Code C#\VD Phuong thuc ao virtual_override\Giao dien Interface\VD interface\VD2 interface\obj\Debug\VD2 interface.exe
+D:\Code C#\VD Phuong thuc ao virtual_override\Giao dien Interface\VD interface\VD2 interface\obj\Debug\VD2 interface.pdb

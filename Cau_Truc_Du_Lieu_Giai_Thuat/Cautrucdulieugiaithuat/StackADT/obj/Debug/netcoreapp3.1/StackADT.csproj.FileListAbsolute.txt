@@ -1,0 +1,14 @@
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\bin\Debug\netcoreapp3.1\StackADT.exe
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\bin\Debug\netcoreapp3.1\StackADT.deps.json
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\bin\Debug\netcoreapp3.1\StackADT.runtimeconfig.json
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\bin\Debug\netcoreapp3.1\StackADT.runtimeconfig.dev.json
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\bin\Debug\netcoreapp3.1\StackADT.dll
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\bin\Debug\netcoreapp3.1\StackADT.pdb
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\obj\Debug\netcoreapp3.1\StackADT.csproj.AssemblyReference.cache
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\obj\Debug\netcoreapp3.1\StackADT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\obj\Debug\netcoreapp3.1\StackADT.AssemblyInfoInputs.cache
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\obj\Debug\netcoreapp3.1\StackADT.AssemblyInfo.cs
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\obj\Debug\netcoreapp3.1\StackADT.csproj.CoreCompileInputs.cache
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\obj\Debug\netcoreapp3.1\StackADT.dll
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\obj\Debug\netcoreapp3.1\StackADT.pdb
+D:\Code C#\Cau_Truc_Du_Lieu_Giai_Thuat\Cautrucdulieugiaithuat\StackADT\obj\Debug\netcoreapp3.1\StackADT.genruntimeconfig.cache

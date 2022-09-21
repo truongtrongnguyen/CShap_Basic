@@ -1,0 +1,14 @@
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\SingletonDesignPatten.exe
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\SingletonDesignPatten.deps.json
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\SingletonDesignPatten.runtimeconfig.json
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\SingletonDesignPatten.runtimeconfig.dev.json
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\SingletonDesignPatten.dll
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\SingletonDesignPatten.pdb
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\SingletonDesignPatten.csproj.AssemblyReference.cache
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\SingletonDesignPatten.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\SingletonDesignPatten.AssemblyInfoInputs.cache
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\SingletonDesignPatten.AssemblyInfo.cs
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\SingletonDesignPatten.csproj.CoreCompileInputs.cache
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\SingletonDesignPatten.dll
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\SingletonDesignPatten.pdb
+D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\SingletonDesignPatten.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+D:\Code C#\VD ENUM( const)\VD su dung enum\VD su dung enum\bin\Debug\VD su dung enum.exe.config
+D:\Code C#\VD ENUM( const)\VD su dung enum\VD su dung enum\bin\Debug\VD su dung enum.exe
+D:\Code C#\VD ENUM( const)\VD su dung enum\VD su dung enum\bin\Debug\VD su dung enum.pdb
+D:\Code C#\VD ENUM( const)\VD su dung enum\VD su dung enum\obj\Debug\VD su dung enum.csproj.AssemblyReference.cache
+D:\Code C#\VD ENUM( const)\VD su dung enum\VD su dung enum\obj\Debug\VD su dung enum.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\VD ENUM( const)\VD su dung enum\VD su dung enum\obj\Debug\VD su dung enum.csproj.CoreCompileInputs.cache
+D:\Code C#\VD ENUM( const)\VD su dung enum\VD su dung enum\obj\Debug\VD su dung enum.exe
+D:\Code C#\VD ENUM( const)\VD su dung enum\VD su dung enum\obj\Debug\VD su dung enum.pdb

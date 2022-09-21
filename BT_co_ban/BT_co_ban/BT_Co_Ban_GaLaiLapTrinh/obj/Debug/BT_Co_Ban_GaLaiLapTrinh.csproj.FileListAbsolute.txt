@@ -1,0 +1,8 @@
+D:\Code C#\BT_co_ban\BT_co_ban\BT_Co_Ban_GaLaiLapTrinh\bin\Debug\BT_Co_Ban_GaLaiLapTrinh.exe.config
+D:\Code C#\BT_co_ban\BT_co_ban\BT_Co_Ban_GaLaiLapTrinh\bin\Debug\BT_Co_Ban_GaLaiLapTrinh.exe
+D:\Code C#\BT_co_ban\BT_co_ban\BT_Co_Ban_GaLaiLapTrinh\bin\Debug\BT_Co_Ban_GaLaiLapTrinh.pdb
+D:\Code C#\BT_co_ban\BT_co_ban\BT_Co_Ban_GaLaiLapTrinh\obj\Debug\BT_Co_Ban_GaLaiLapTrinh.csproj.AssemblyReference.cache
+D:\Code C#\BT_co_ban\BT_co_ban\BT_Co_Ban_GaLaiLapTrinh\obj\Debug\BT_Co_Ban_GaLaiLapTrinh.csproj.SuggestedBindingRedirects.cache
+D:\Code C#\BT_co_ban\BT_co_ban\BT_Co_Ban_GaLaiLapTrinh\obj\Debug\BT_Co_Ban_GaLaiLapTrinh.csproj.CoreCompileInputs.cache
+D:\Code C#\BT_co_ban\BT_co_ban\BT_Co_Ban_GaLaiLapTrinh\obj\Debug\BT_Co_Ban_GaLaiLapTrinh.exe
+D:\Code C#\BT_co_ban\BT_co_ban\BT_Co_Ban_GaLaiLapTrinh\obj\Debug\BT_Co_Ban_GaLaiLapTrinh.pdb
