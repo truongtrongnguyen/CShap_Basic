@@ -20,7 +20,7 @@ namespace PizzaStore.Pizzas.Base
             topping?.ForEach(topping => Console.WriteLine("\t" + topping));
 
         }
-        public void Bake()//Nướng
+        public void Bake()//Nướng 
         {
             Console.WriteLine("Baking " + name + " in 30 mins");
         }

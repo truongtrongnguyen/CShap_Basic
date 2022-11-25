@@ -13,6 +13,14 @@ namespace Quan_Ly_Vat_Tu
         public string don_vi { get; set; }
         public int so_luong_ton { get; set; }
         public bool kt;
+
+
+        private static readonly Regex sWhitespace = new Regex(@"\s+");
+        public static string ReplaceWhitespace(string input, string replacement)
+        {
+            return sWhitespace.Replace(input, replacement);
+        }
+
         public Vat_Tu()
         {
             ds_vattu = new ds_Vat_Tu();
@@ -38,18 +46,20 @@ namespace Quan_Ly_Vat_Tu
         }
         public string Cat_Khoang_Trang(string sent)
         {
-            sent = sent.Trim(); // Xóa đầu cuối
-            Regex trimmer = new Regex(@"\s\s+"); // Xóa khoảng trắng thừa trong chuỗi
-            sent = trimmer.Replace(sent, " ");
-            sent = trimmer.Replace(sent, " ");
+            //sent = sent.Trim(); // Xóa đầu cuối
+            //Regex trimmer = new Regex(@"\s\s+"); // Xóa khoảng trắng thừa trong chuỗi
+            //sent = trimmer.Replace(sent, " ");
+            ////sent = trimmer.Replace(sent, " ");
 
-            string[] a = sent.Split(' ');
-            string b = "";
-            for(int i=0;i<a.Length;i++)
-            {
-                b+=StringExtensions.FirstCharToUpper(a[i])+ " ";
-            }
-            return b;
+            //string[] a = sent.Split(' ');
+            //string b = "";
+            //for(int i=0;i<a.Length;i++)
+            //{
+            //    b+=StringExtensions.FirstCharToUpper(a[i])+ " ";
+            //}
+            //return b;
+
+            return Regex.Replace(sent, @"\s+", " ").Trim();
         }
 
         public string Tao_maVT()
@@ -79,9 +89,7 @@ namespace Quan_Ly_Vat_Tu
                 }
             }
             return -1;
-
         }
-
     }
     public static class StringExtensions
     {

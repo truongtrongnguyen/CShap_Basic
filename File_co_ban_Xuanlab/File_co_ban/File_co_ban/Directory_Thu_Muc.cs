@@ -16,8 +16,8 @@ namespace File_co_ban
             //Directory.Delete(path);
 
 
-            var file = Directory.GetFiles(path);
-            var directory = Directory.GetDirectories(path);
+            var file = Directory.GetFiles(path);    //Lấy các file trong đường dẫn
+            var directory = Directory.GetDirectories(path);// Lấy các thư mục trong đường dẫn
             
             Console.WriteLine("Cac thu muc con trong thu muc C#");
             foreach(var i in directory)

@@ -32,6 +32,7 @@ namespace QL_Sinh_Vien_Doc_Ghi_File
 
             for (int i = 0; i < N; i++)
             {
+                Console.WriteLine("Nhap thong tin sinh vien thu: " + i + 1);
                 Student std = new Student();
                 std.Input();
 

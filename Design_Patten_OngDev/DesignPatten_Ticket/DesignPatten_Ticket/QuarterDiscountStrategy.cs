@@ -5,7 +5,7 @@ using Ticket_StrategyDesignPatten.Base;
 
 namespace DesignPatten_Ticket
 {
-    internal class QuarterDiscountStrategy : IPromoteStrategy
+    internal class QuarterDiscountStrategy : IPromoteStrategy   // Giảm giá theo quý
     {
         public double DoDiscount(double price)
         {

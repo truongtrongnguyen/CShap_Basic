@@ -116,12 +116,12 @@ namespace Quan_Ly_Vat_Tu
         }
         public void Doc_Data(ds_Vat_Tu ds)
         {
-            Data_Read_Write data = new Data_Read_Write(@"D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\456.txt", ds);
+            Data_Read_Write data = new Data_Read_Write(@"D:\Code_C#\Code_C-\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\456.txt", ds);
             data.Read_Data();
         }
         public void Write_Data(ds_Vat_Tu ds)
         {
-            Data_Read_Write data = new Data_Read_Write(@"D:\Code C#\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\456.txt", ds);
+            Data_Read_Write data = new Data_Read_Write(@"D:\Code_C#\Code_C-\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\Quan_Ly_Vat_Tu\456.txt", ds);
             data.Write_Data(ds);
         }
         public void Xoa_Ds_Vat_Tu(ds_Vat_Tu ds)

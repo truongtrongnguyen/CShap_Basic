@@ -24,7 +24,7 @@ namespace SingletonDesignPatten
                     if (uniqueSingleton == null)
                     {
                         var random = new Random();
-                        uniqueSingleton = new OngDevSingleton(random.Next(1, 4));
+                        uniqueSingleton = new OngDevSingleton(random.Next(2, 8));
                     }
                 }
             }

@@ -19,14 +19,8 @@ namespace Test
         }
         public void Input()
         {
-            Console.Write("Nhap ten hotels: ");
-            Name = Console.ReadLine();
-            Console.Write("Nhap ma hotels: ");
-            HotelNo = Console.ReadLine();
-            Console.Write("Nhap loai hotels (VIP/BINH DAN): ");
-            TypeHotels = Console.ReadLine();
-            Console.Write("Nhap dia chi hotels: ");
-            Address = Console.ReadLine();
+            Console.WriteLine("****\tNHAP THONG KHACH SAN\t***** ");
+            Input_Edit();
             Console.Write("Nhap so phong can them: ");
             int n = int.Parse(Console.ReadLine());
             for(int i=0;i<n;i++)
@@ -35,39 +29,52 @@ namespace Test
                 room.Input();
                 RoomList.Add(room);
             }
-
+        }
+        public void Input_Edit()
+        {
+            Console.Write("Nhap ten hotels: ");
+            Name = Console.ReadLine();
+            Console.Write("Nhap ma hotels: ");
+            HotelNo = Console.ReadLine();
+            Console.Write("Nhap loai hotels (VIP/BINH DAN): ");
+            TypeHotels = Console.ReadLine();
+            Console.Write("Nhap dia chi hotels: ");
+            Address = Console.ReadLine();
         }
         public void Display()
         {
-            Console.WriteLine($"Ten Hotels: {Name} | Ma hotels: {HotelNo} | Loai: {TypeHotels} | Dia chi: {Address}");
-            Console.WriteLine("Danh sach cac phong: ");
+            
+            Console.WriteLine($"\n\t**Ten Hotels: {Name} | Ma hotels: {HotelNo} | Loai: {TypeHotels} | Dia chi: {Address}**");
+            if (RoomList.Count == 0)
+            {
+                Console.WriteLine("Chua co phong nao duoc them vao");
+                return;
+            }
+                Console.WriteLine("Danh sach cac phong: ");
             foreach (var i in RoomList)
             {
                 i.Display();
             }
         }
-        public void ShowRoomAvailable(List<Book> books)
+        public void ShowRoomAvailable()
         {
-            Console.WriteLine("Danh sach phong trong la: ");
+            //Console.WriteLine("Danh sach phong trong la: ");
+            //foreach(var i in RoomList)
+            //{
+            //    if(!CheckAvailable(books, i))
+            //    {
+            //        i.Display();
+            //    }
+            //}
             foreach(var i in RoomList)
             {
-                if(!CheckAvailable(books, i))
+                if (i.isRoomEmty.Equals("Trong"))
                 {
                     i.Display();
                 }
             }
         }
-        bool CheckAvailable(List<Book> books, Room room)
-        {
-            foreach(var book in books)
-            {
-                if(book.HotelsNo.Equals(HotelNo)&&book.RoomNo.Equals(room.RoomNo))
-                {
-                    return false;
-                }
-            }
-            return true;
-        }
+        
       
     }
 }

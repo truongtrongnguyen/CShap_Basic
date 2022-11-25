@@ -12,3 +12,17 @@ D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debu
 D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.dll
 D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.pdb
 D:\Code C#\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.genruntimeconfig.cache
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\1_Strategy_DesignPatten.exe
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\1_Strategy_DesignPatten.deps.json
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\1_Strategy_DesignPatten.runtimeconfig.json
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\1_Strategy_DesignPatten.runtimeconfig.dev.json
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\1_Strategy_DesignPatten.dll
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\bin\Debug\netcoreapp3.1\1_Strategy_DesignPatten.pdb
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.csproj.AssemblyReference.cache
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.AssemblyInfoInputs.cache
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.AssemblyInfo.cs
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.csproj.CoreCompileInputs.cache
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.dll
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.pdb
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\DesignPatten_Ticket\obj\Debug\netcoreapp3.1\1_Strategy_DesignPatten.genruntimeconfig.cache

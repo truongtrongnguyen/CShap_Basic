@@ -46,6 +46,7 @@
     <Compile Include="Book.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="DataController.cs" />
+    <Compile Include="Edit_Info.cs" />
     <Compile Include="Hotels.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

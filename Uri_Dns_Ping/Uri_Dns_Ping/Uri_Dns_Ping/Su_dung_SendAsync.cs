@@ -54,10 +54,10 @@ namespace Uri_Dns_Ping
             #endregion
 
             #region - Cách 2
-            //            string data = @"{
-            //""key1"":""value1"",
-            //""key2"": ""value2-1""
-            //}";
+            string data = @"{
+            ""key1"":""value1"",
+            ""key2"": ""value2-1""
+            }";
             //            var content = new StringContent(data, Encoding.UTF8, "application/json");
             #endregion
 
@@ -71,6 +71,8 @@ namespace Uri_Dns_Ping
 
             //UPLOAD CHUỖI
             content.Add(new StringContent("value1"), "key1");
+
+            content.Add(new StringContent(data, Encoding.UTF8, "application/json"));
 
             #endregion
 

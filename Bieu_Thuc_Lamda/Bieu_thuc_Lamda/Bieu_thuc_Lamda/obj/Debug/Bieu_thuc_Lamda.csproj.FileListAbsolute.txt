@@ -6,3 +6,11 @@ D:\Code C#\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\obj\Debug\Bieu_thuc_L
 D:\Code C#\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\obj\Debug\Bieu_thuc_Lamda.csproj.CoreCompileInputs.cache
 D:\Code C#\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\obj\Debug\Bieu_thuc_Lamda.exe
 D:\Code C#\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\obj\Debug\Bieu_thuc_Lamda.pdb
+D:\Code_C#\Code_C-\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\bin\Debug\Bieu_thuc_Lamda.exe.config
+D:\Code_C#\Code_C-\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\bin\Debug\Bieu_thuc_Lamda.exe
+D:\Code_C#\Code_C-\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\bin\Debug\Bieu_thuc_Lamda.pdb
+D:\Code_C#\Code_C-\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\obj\Debug\Bieu_thuc_Lamda.csproj.AssemblyReference.cache
+D:\Code_C#\Code_C-\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\obj\Debug\Bieu_thuc_Lamda.csproj.SuggestedBindingRedirects.cache
+D:\Code_C#\Code_C-\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\obj\Debug\Bieu_thuc_Lamda.csproj.CoreCompileInputs.cache
+D:\Code_C#\Code_C-\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\obj\Debug\Bieu_thuc_Lamda.exe
+D:\Code_C#\Code_C-\Bieu_Thuc_Lamda\Bieu_thuc_Lamda\Bieu_thuc_Lamda\obj\Debug\Bieu_thuc_Lamda.pdb

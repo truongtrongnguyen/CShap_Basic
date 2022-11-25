@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BT_OOP
+namespace BT_OOP.Base
 {
     internal class Farming_contronller
     {
@@ -227,6 +227,5 @@ namespace BT_OOP
                 TotalAmount(Pig, Constanst.C_Amount_Bran);
             }
         }
-
     }
 }

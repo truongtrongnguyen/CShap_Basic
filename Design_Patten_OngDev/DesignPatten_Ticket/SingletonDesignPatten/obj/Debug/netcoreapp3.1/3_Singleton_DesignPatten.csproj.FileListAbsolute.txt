@@ -1,0 +1,14 @@
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\3_Singleton_DesignPatten.exe
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\3_Singleton_DesignPatten.deps.json
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\3_Singleton_DesignPatten.runtimeconfig.json
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\3_Singleton_DesignPatten.runtimeconfig.dev.json
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\3_Singleton_DesignPatten.dll
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\bin\Debug\netcoreapp3.1\3_Singleton_DesignPatten.pdb
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\3_Singleton_DesignPatten.csproj.AssemblyReference.cache
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\3_Singleton_DesignPatten.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\3_Singleton_DesignPatten.AssemblyInfoInputs.cache
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\3_Singleton_DesignPatten.AssemblyInfo.cs
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\3_Singleton_DesignPatten.csproj.CoreCompileInputs.cache
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\3_Singleton_DesignPatten.dll
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\3_Singleton_DesignPatten.pdb
+D:\Code_C#\Code_C-\Design_Patten_OngDev\DesignPatten_Ticket\SingletonDesignPatten\obj\Debug\netcoreapp3.1\3_Singleton_DesignPatten.genruntimeconfig.cache

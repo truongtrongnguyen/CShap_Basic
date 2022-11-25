@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code C#\\Design_Patten_OngDev\\DesignPatten_Ticket\\SingletonDesignPatten\\3_Singleton_DesignPatten.csproj",
+      "projectUniqueName": "D:\\Code_C#\\Code_C-\\Design_Patten_OngDev\\DesignPatten_Ticket\\SingletonDesignPatten\\3_Singleton_DesignPatten.csproj",
       "projectName": "3_Singleton_DesignPatten",
-      "projectPath": "D:\\Code C#\\Design_Patten_OngDev\\DesignPatten_Ticket\\SingletonDesignPatten\\3_Singleton_DesignPatten.csproj",
+      "projectPath": "D:\\Code_C#\\Code_C-\\Design_Patten_OngDev\\DesignPatten_Ticket\\SingletonDesignPatten\\3_Singleton_DesignPatten.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Code C#\\Design_Patten_OngDev\\DesignPatten_Ticket\\SingletonDesignPatten\\obj\\",
+      "outputPath": "D:\\Code_C#\\Code_C-\\Design_Patten_OngDev\\DesignPatten_Ticket\\SingletonDesignPatten\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,7 +32,8 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }

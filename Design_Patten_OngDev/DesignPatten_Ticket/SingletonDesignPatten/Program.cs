@@ -19,12 +19,12 @@ namespace SingletonDesignPatten
             thread1.Start();
             thread2.Start();
 
-            //Task t2 = new Task(() => OngDevSingleton.GetInstance().SaysHi());
-            //Task t3 = new Task(() => OngDevSingleton.GetInstance().SaysHi());
-            //t2.Start();
-            //t3.Start();
-            //t2.Wait();
-            //t3.Wait();
+            Task t2 = new Task(() => OngDevSingleton.GetInstance().SaysHi());
+            Task t3 = new Task(() => OngDevSingleton.GetInstance().SaysHi());
+            t2.Start();
+            t3.Start();
+            t2.Wait();
+            t3.Wait();
 
             Console.ReadKey();
         }

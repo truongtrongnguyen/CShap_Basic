@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code C#\\Lap_trinh_huong_doi_tuong\\QL_NV\\QL_NV\\QL_NV1\\QL_NV1.csproj": {}
+    "D:\\Code_C#\\Code_C-\\Lap_trinh_huong_doi_tuong\\QL_NV\\QL_NV\\QL_NV1\\QL_NV1.csproj": {}
   },
   "projects": {
-    "D:\\Code C#\\Lap_trinh_huong_doi_tuong\\QL_NV\\QL_NV\\QL_NV1\\QL_NV1.csproj": {
+    "D:\\Code_C#\\Code_C-\\Lap_trinh_huong_doi_tuong\\QL_NV\\QL_NV\\QL_NV1\\QL_NV1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code C#\\Lap_trinh_huong_doi_tuong\\QL_NV\\QL_NV\\QL_NV1\\QL_NV1.csproj",
+        "projectUniqueName": "D:\\Code_C#\\Code_C-\\Lap_trinh_huong_doi_tuong\\QL_NV\\QL_NV\\QL_NV1\\QL_NV1.csproj",
         "projectName": "QL_NV1",
-        "projectPath": "D:\\Code C#\\Lap_trinh_huong_doi_tuong\\QL_NV\\QL_NV\\QL_NV1\\QL_NV1.csproj",
+        "projectPath": "D:\\Code_C#\\Code_C-\\Lap_trinh_huong_doi_tuong\\QL_NV\\QL_NV\\QL_NV1\\QL_NV1.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Code C#\\Lap_trinh_huong_doi_tuong\\QL_NV\\QL_NV\\QL_NV1\\obj\\",
+        "outputPath": "D:\\Code_C#\\Code_C-\\Lap_trinh_huong_doi_tuong\\QL_NV\\QL_NV\\QL_NV1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,7 +25,8 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

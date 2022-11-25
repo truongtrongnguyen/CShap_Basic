@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Newtonsoft.Json;
+
 namespace QL_Sinh_Vien_Doc_Ghi_File
 {
     [Serializable]//Giao thức chuyển đổi dùng để lưu file
@@ -17,55 +19,64 @@ namespace QL_Sinh_Vien_Doc_Ghi_File
 
         public void ShowMenu()
         {
-            Console.WriteLine("1. Nhap du lieu tu file Data.json");
+            Console.WriteLine("1. Doc du  lieu tu file Data.json ra Object");
             Console.WriteLine("2. Hien thi thong tin lop hoc");
-            Console.WriteLine("3. Luu");
-            Console.WriteLine("4. Thoat chuong trinh");
+            Console.WriteLine("3. Luu du lieu vao cac file .txt");
+            Console.WriteLine("4. Them lop hoc");
+            Console.WriteLine("5. Doc du lieu");
         }
         public void Giaodien()
         {
-            int Option;
-            do
+            while (true)
             {
-                ShowMenu();
-                Console.Write("Nhap lua chon cua ban: ");
-                Option = int.Parse(Console.ReadLine());
-                switch (Option)
+                int Option;
+                do
                 {
-                    case 1:
-                        {
-                            ClassroomList=ImportJSON();
-                            break;
-                        }
-                    case 2:
-                        {
-                            ClassroomList=ImportJSON();
-                            Display(ClassroomList);
-                            break;
-                        }
-                    case 3:
-                        {
-                            SaveFiles(ClassroomList);
-                            break;
-                        }
-                    case 4:
-                        {
-                            Themlophoc();
-                            //Environment.Exit(0);
-                            break;
-                        }
-                    default:
-                        {
-                            Console.WriteLine("Lua chon khong hop le");
-                            break;
-                        }
-                }
-            } while (Option != 5);
+                    ShowMenu();
+                    Console.Write("Nhap lua chon cua ban: ");
+                    Option = int.Parse(Console.ReadLine());
+                    switch (Option)
+                    {
+                        case 1:
+                            {
+                                ClassroomList = ImportJSON();
+                                break;
+                            }
+                        case 2:
+                            {
+                                // ClassroomList=ImportJSON();
+                                Display(ClassroomList);
+                                break;
+                            }
+                        case 3:
+                            {
+                                SaveFiles(ClassroomList);
+                                break;
+                            }
+                        case 4:
+                            {
+                                Themlophoc();
+                                //Environment.Exit(0);
+                                break;
+                            }
+                        case 5:
+                            {
+                                Chinhsuathongtin(ClassroomList);
+                                break;
+                            }
+                        default:
+                            {
+                                Console.WriteLine("Lua chon khong hop le");
+                                break;
+                            }
+                    }
+                } while (Option != 6);
+            }
         }
         public List<ClassRoom> ImportJSON()
         {
             //B1. Doc noi dung data.json
-            var content = System.IO.File.ReadAllText(@"D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\Data.json");
+            var content = System.IO.File.ReadAllText(@"D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\Data.json");
             //Console.WriteLine(content);
             //B2. Convert JSON thanh Array Class Object trong C#
             List<ClassRoom> classRooms = Newtonsoft.Json.JsonConvert.DeserializeObject<List<ClassRoom>>(content);
@@ -86,34 +97,42 @@ namespace QL_Sinh_Vien_Doc_Ghi_File
         {
             Console.Write("Nhap ten lop: ");
             string nameclass = Console.ReadLine();
-            var lopcantim = from lop in ClassroomList
-                            where lop.Name == nameclass
-                            select lop.StudentList;
+            var lopcantim = (from lop in ClassroomList
+                             where lop.Name == nameclass
+                             select (lop.StudentList));
 
-            if(lopcantim!=null)
+            lopcantim.ToList().ForEach(x =>
+            {
+                foreach (var i in x)
+                {
+                    i.Display();
+                }
+            });
+
+            if (lopcantim != null)
             {
 
                 Console.Write("Nhap ten sinh vien: ");
                 string namesv = Console.ReadLine();
-                for(int i=0;i<n;i++)
+                lopcantim.ToList().ForEach(x =>
                 {
-                    if (namesv == lopcantim[i])
-                }
-                //var sinhvien = from sv in lopcantim
-                //               where sv.Name == namesv
-                //               select () =>
-                //               {
-                //                   Console.Write("Nhap ten moi: ");
-                //                   sv.Name = Console.ReadLine();
-                //                   return sv.;
-                //               };
+                    foreach (var i in x)
+                    {
+                        if (namesv.Equals(i.Fullname))
+                        {
+                            Console.WriteLine("Nhap thong tin moi cua sinh vien: ");
+                            i.Input();
+                            
+                        }
+                    }
+                });
             }
         }
         static void SaveFiles(List<ClassRoom> classroomlist)    //
         {
             for(int i=0;i<classroomlist.Count;i++)
             {
-                using (Stream stream = File.Open($@"D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\{classroomlist[i].Name}.txt", FileMode.Create))
+                using (Stream stream = File.Open($@"D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\{classroomlist[i].Name}.txt", FileMode.Create))
                 {
                     var binaryFomatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
                     binaryFomatter.Serialize(stream, classroomlist[i]);
@@ -127,9 +146,10 @@ namespace QL_Sinh_Vien_Doc_Ghi_File
             ClassroomList.Add(classroom);
 
             //var jons=Newtonsoft.Json.JsonConvert.SerializeObject(classroom);
-            var jons = Newtonsoft.Json.JsonConvert.SerializeObject(ClassroomList.ToArray());
-            FileStream file = new FileStream(@"D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\Data.json", FileMode.Create, FileAccess.Write);
+            var jons = Newtonsoft.Json.JsonConvert.SerializeObject(ClassroomList);
+            FileStream file = new FileStream(@"D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\Data.json", FileMode.Create, FileAccess.Write);
             StreamWriter sw = new StreamWriter(file);
+            
             sw.WriteLine(jons);
             sw.Flush();
             sw.Close();
@@ -138,15 +158,21 @@ namespace QL_Sinh_Vien_Doc_Ghi_File
         public List<ClassRoom> ReadFile()//CHƯA HOÀN THÀNH
         {
             //read file => object
-             using (Stream stream = File.Open(@"D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\abc.txt", FileMode.Open))
+             using (FileStream stream = File.Open(@"D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\Data.json", FileMode.Open))
              {
-                var binaryFormatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
-                return (List<ClassRoom>)binaryFormatter.Deserialize(stream);
-             }
+                //var binaryFormatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
+                //return (List<ClassRoom>)binaryFormatter.Deserialize(stream);
+
+                StreamReader sr = new StreamReader(stream);
+                string json = sr.ReadToEnd();
+                List<ClassRoom> items = JsonConvert.DeserializeObject < List < ClassRoom>>(json);
+                ClassroomList = items;
+                return items;
+            }
         }
         public List<ClassRoom> ReadFromBinaryFile()//CHƯA HOÀN THÀNH
         {
-            using (Stream stream = File.Open(@"D:\Code C#\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\abc.txt", FileMode.Open))
+            using (Stream stream = File.Open(@"D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\QL_Sinh_Vien_Doc_Ghi_File\Data.json", FileMode.Open))
             {
                 var binaryFormatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
                 return (List<ClassRoom>)binaryFormatter.Deserialize(stream);

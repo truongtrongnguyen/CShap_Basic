@@ -14,7 +14,7 @@ namespace Observer.Notifier
         }
         public override void Notify(Subject subject, object arg)
         {
-            //Trong trường hợp này chúng ta cần check xem cái subject nà có phải là VideoData hay không
+            //Trong trường hợp này chúng ta cần check xem cái subject này có phải là VideoData hay không
             if (subject is VideoData videoData)  // Nó sẽ check nếu là VideoData thì nó sẽ tạo ra một biến temp videoData
             {
                 Console.WriteLine(

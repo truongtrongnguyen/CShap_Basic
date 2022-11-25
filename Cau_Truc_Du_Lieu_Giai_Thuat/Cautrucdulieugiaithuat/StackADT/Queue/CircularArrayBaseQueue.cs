@@ -16,7 +16,6 @@ namespace StackADT.Queue
             front = end = 0;
             _size = maxSize+1;
             arr = new T[_size];
-
         }
         public void enqueue(T element)
         {

@@ -275,6 +275,7 @@ namespace Linq
         {
             //in ra tên sp, tên thương hiệu, có giá (300 - 400) và sắp xếp giảm dần
 
+
             //Gốc: 
             //products.Where(p => p.Price >= 300 && p.Price <= 400)
             //    .OrderByDescending(p=>p.Price)
@@ -295,7 +296,7 @@ namespace Linq
                 .Join(brans, product => product.Bran, bran => bran.Id, (sp, th) =>
                 {
                     return sp;
-                }).ToList().ForEach(info=>Console.WriteLine(info));
+                }).ToList().ForEach(info => Console.WriteLine(info));
             //  cách 2: tự viết
             Console.WriteLine();
             var ketqua1 = from product in products

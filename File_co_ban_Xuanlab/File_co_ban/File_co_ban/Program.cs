@@ -27,8 +27,8 @@ namespace File_co_ban
             //Class_File file = new Class_File();
             //file.LamViecVoiFile();
 
-            Class_Stream stream = new Class_Stream();
-            stream.LamViecVoiStream();
+            //Class_Stream stream = new Class_Stream();
+            //stream.LamViecVoiStream();
             // stream.Test();
 
             //BT_FileText bt = new BT_FileText();

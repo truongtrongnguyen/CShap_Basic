@@ -13,7 +13,7 @@ namespace PizzaStore
             name = "DN A good greek pizza";
             dough = "DN Thin dough";
             sauce = "DN Chilli sauce"; // sốt Ớt
-            topping.Add("Tomato");
+            topping.Add("Tomato");   // Cà chua
             topping.Add("Potato");  //Khoai tây
         }
     }

@@ -27,8 +27,8 @@ namespace QL_Sach
         public AptechBook(string name, string author, string producer,string yearPublish,float price,
             string language, string semete):base(name, author, producer, yearPublish,price)
         {
-            this.language = Language;
-            this.Semete = Semete;
+            this.language = language;
+            this.Semete = semete;
         }
         public override void Input()
         {

@@ -8,3 +8,13 @@ D:\Code C#\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.AssemblyI
 D:\Code C#\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.csproj.CoreCompileInputs.cache
 D:\Code C#\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.dll
 D:\Code C#\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.pdb
+D:\Code_C#\Code_C-\Thu_Vien\Thu_Vien\ClassLib\bin\Debug\netcoreapp3.1\ClassLib.deps.json
+D:\Code_C#\Code_C-\Thu_Vien\Thu_Vien\ClassLib\bin\Debug\netcoreapp3.1\ClassLib.dll
+D:\Code_C#\Code_C-\Thu_Vien\Thu_Vien\ClassLib\bin\Debug\netcoreapp3.1\ClassLib.pdb
+D:\Code_C#\Code_C-\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.csproj.AssemblyReference.cache
+D:\Code_C#\Code_C-\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_C#\Code_C-\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.AssemblyInfoInputs.cache
+D:\Code_C#\Code_C-\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.AssemblyInfo.cs
+D:\Code_C#\Code_C-\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.csproj.CoreCompileInputs.cache
+D:\Code_C#\Code_C-\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.dll
+D:\Code_C#\Code_C-\Thu_Vien\Thu_Vien\ClassLib\obj\Debug\netcoreapp3.1\ClassLib.pdb

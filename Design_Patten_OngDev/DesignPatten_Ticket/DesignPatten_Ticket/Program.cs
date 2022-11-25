@@ -26,6 +26,7 @@ namespace DesignPatten_Ticket
                 LogTicketDetails(ticket);
 
             }
+            Console.ReadKey();
         }
 
         private static void LogTicketDetails(Ticket ticket)

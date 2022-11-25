@@ -17,7 +17,7 @@ namespace BT1
         private DateTime ngaysinh;
         private static int so_nguoi = 0;
         private string email;
-        //Khi mà tạo một biến static thì không được đư nó vào hàm contructor
+        //Khi mà tạo một biến static thì không được đưa nó vào hàm contructor
         public Person()
         {
 

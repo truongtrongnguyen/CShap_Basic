@@ -15,7 +15,7 @@ namespace Uri_Dns_Ping
             //uri.Demo3();
             //uri.Demo_Ping();
 
-            Truy_van_GET_toi_HttpServer tr = new Truy_van_GET_toi_HttpServer();
+            //Truy_van_GET_toi_HttpServer tr = new Truy_van_GET_toi_HttpServer();
             //string url = "https://www.google.com/search?q=xuanthulab";
 
 

@@ -39,6 +39,7 @@ namespace StackADT
         }
         public T get(int index)
         {
+            if (index < 0) throw new ArgumentOutOfRangeException("index");
             return arr[index];
         }
         public void set(int index, T element)

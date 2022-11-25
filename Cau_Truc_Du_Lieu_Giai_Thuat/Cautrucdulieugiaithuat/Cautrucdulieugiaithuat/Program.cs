@@ -275,7 +275,7 @@ namespace Cautrucdulieugiaithuat
             Console.Write("Nhap node can them: ");
             int x = int.Parse(Console.ReadLine());
             Node p = KhoiTaoNode(x);
-            Console.Write("Them cao sau Node:");
+            Console.Write("Them sau Node:");
             int q = int.Parse(Console.ReadLine());
 
             if(l.pHead.Data==q&&l.pHead.PNext==null)

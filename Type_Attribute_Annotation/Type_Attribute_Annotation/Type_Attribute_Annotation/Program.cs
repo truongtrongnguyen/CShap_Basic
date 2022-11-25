@@ -12,10 +12,10 @@ namespace Type_Attribute_Annotation
             //Su_Dung_Obsolete obsolete = new Su_Dung_Obsolete();
             //obsolete.Prints(); //Đưa ra dòng lệnh cảnh báo 
 
-            //Su_Dung_Required required = new Su_Dung_Required();
-            //required.Demo();
+            Su_Dung_Required required = new Su_Dung_Required();
+            required.Demo();
 
-            Console.WriteLine(ConvertMoneyToText.NumberToText(223432, true));
+            //Console.WriteLine(ConvertMoneyToText.NumberToText(223432, true));
 
             Tao_Attribute_Rieng t = new Tao_Attribute_Rieng();
             t.Demo();

@@ -4,7 +4,7 @@ namespace Dependency_inversion
 {
     internal class Khai_niem_Dependency
     {
-       public void Demo()
+        public void Demo()
         {
             B b = new B();
             b.ActionB();

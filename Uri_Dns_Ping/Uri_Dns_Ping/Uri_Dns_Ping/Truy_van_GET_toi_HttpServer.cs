@@ -34,7 +34,7 @@ namespace Uri_Dns_Ping
             }
         }
 
-        public async Task<byte[]> DownLoadDataByte(string url)
+        public async Task<byte[]> DownLoadDataByte(string url)      // Dùng để tải một file nào đó trên Web 
         {
             try
             {

@@ -14,7 +14,7 @@ namespace Multithreading_async
             //ParallelFor();
             ParallelInvoke();
         }
-        //In thông tin , Task ID và Thread ID đang chạy
+        //In thông tin, Task ID và Thread ID đang chạy
         public void PinInfo(string info)
         {
             Console.WriteLine($"{info,10}  task:{Task.CurrentId,3}" + $"  thread: {Thread.CurrentThread.ManagedThreadId}");

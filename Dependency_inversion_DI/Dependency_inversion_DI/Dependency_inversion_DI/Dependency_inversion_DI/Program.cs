@@ -6,8 +6,8 @@ namespace Dependency_inversion_DI
     {
         static void Main(string[] args)
         {
-            //Dependency_Injection e = new Dependency_Injection();
-            //e.Demo();
+            Dependency_Injection e = new Dependency_Injection();
+            e.Demo();
 
             //Demo1 d = new Demo1();
             //d.Demo();
@@ -21,8 +21,8 @@ namespace Dependency_inversion_DI
             //Su_Dung_Options op = new Su_Dung_Options();
             //op.Demo();
 
-            Su_dung_File_cho_DI fl = new Su_dung_File_cho_DI();
-            fl.Demo();
+            //Su_dung_File_cho_DI fl = new Su_dung_File_cho_DI();
+            //fl.Demo();
             Console.ReadKey();
         }
     }

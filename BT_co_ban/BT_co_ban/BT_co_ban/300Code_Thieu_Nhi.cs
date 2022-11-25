@@ -175,11 +175,13 @@ namespace BT_co_ban
             }
             return maxProfit;
         }
+
+
         public bool Demo5() //Valid Palindrome
         {
             string s = "A man, a plan, a canal: Panama";
             s = Regex.Replace(s, @"\W", "").ToLower();
-           
+            
             for (int i = 0; i < s.Length - 1;i++)
             {
                 if (s[i] != s[s.Length - 1 - i])
@@ -245,7 +247,7 @@ namespace BT_co_ban
                 if (target == num) return privot;
                 else if (target < num) hight = privot - 1;
                 else if (target > num) low = privot + 1;
-            }
+            } 
             return -1;
         }
         public void Demo8() //Maximum Subarray

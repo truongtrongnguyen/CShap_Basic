@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BT_OOP
+namespace BT_OOP.Base
 {
     // Mỗi con vật sẽ có một List<FarmingAnimalcontroler> này
     internal class FarmingAnimalcontroler

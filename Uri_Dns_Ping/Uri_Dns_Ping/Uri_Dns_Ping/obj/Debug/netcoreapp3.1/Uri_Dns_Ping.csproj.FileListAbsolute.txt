@@ -12,3 +12,17 @@ D:\Code C#\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dn
 D:\Code C#\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.dll
 D:\Code C#\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.pdb
 D:\Code C#\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.genruntimeconfig.cache
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\bin\Debug\netcoreapp3.1\Uri_Dns_Ping.exe
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\bin\Debug\netcoreapp3.1\Uri_Dns_Ping.deps.json
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\bin\Debug\netcoreapp3.1\Uri_Dns_Ping.runtimeconfig.json
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\bin\Debug\netcoreapp3.1\Uri_Dns_Ping.runtimeconfig.dev.json
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\bin\Debug\netcoreapp3.1\Uri_Dns_Ping.dll
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\bin\Debug\netcoreapp3.1\Uri_Dns_Ping.pdb
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.csproj.AssemblyReference.cache
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.AssemblyInfoInputs.cache
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.AssemblyInfo.cs
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.csproj.CoreCompileInputs.cache
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.dll
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.pdb
+D:\Code_C#\Code_C-\Uri_Dns_Ping\Uri_Dns_Ping\Uri_Dns_Ping\obj\Debug\netcoreapp3.1\Uri_Dns_Ping.genruntimeconfig.cache

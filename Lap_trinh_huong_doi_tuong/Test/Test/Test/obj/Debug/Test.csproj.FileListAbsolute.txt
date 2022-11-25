@@ -6,3 +6,11 @@ D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\bin\Debug\Test.exe
 D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\bin\Debug\Test.pdb
 D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\obj\Debug\Test.exe
 D:\Code C#\Lap trinh huong doi tuong\Test\Test\Test\obj\Debug\Test.pdb
+D:\Code_C#\Code_C-\Lap_trinh_huong_doi_tuong\Test\Test\Test\bin\Debug\Test.exe.config
+D:\Code_C#\Code_C-\Lap_trinh_huong_doi_tuong\Test\Test\Test\bin\Debug\Test.exe
+D:\Code_C#\Code_C-\Lap_trinh_huong_doi_tuong\Test\Test\Test\bin\Debug\Test.pdb
+D:\Code_C#\Code_C-\Lap_trinh_huong_doi_tuong\Test\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Code_C#\Code_C-\Lap_trinh_huong_doi_tuong\Test\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+D:\Code_C#\Code_C-\Lap_trinh_huong_doi_tuong\Test\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Code_C#\Code_C-\Lap_trinh_huong_doi_tuong\Test\Test\Test\obj\Debug\Test.exe
+D:\Code_C#\Code_C-\Lap_trinh_huong_doi_tuong\Test\Test\Test\obj\Debug\Test.pdb

@@ -10,7 +10,7 @@ namespace PizzaStore
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             HUEPizzaStore huepizzasotre = new HUEPizzaStore();
-            huepizzasotre.OrderPizza("greek");
+            huepizzasotre.OrderPizza("cheese");
 
             DNPizzaStore dnpizzasotre = new DNPizzaStore();
             dnpizzasotre.OrderPizza("greek");

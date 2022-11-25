@@ -48,15 +48,15 @@ namespace QL_Sach
             //    return ap1.Name.CompareTo(ap2.Name);
             //});
             aptechbook1.Sort(
-    delegate (AptechBook p1, AptechBook p2)
-    {
-        int compareDate = p1.Name.CompareTo(p2.Name);
-        if (compareDate == 0)
-        {
-            return p2.Name.CompareTo(p1.Name);
-        }
-        return compareDate;
-    });
+            delegate (AptechBook p1, AptechBook p2)
+            {
+                int compareDate = p1.Name.CompareTo(p2.Name);
+                if (compareDate == 0)
+                {
+                    return p2.Name.CompareTo(p1.Name);
+                }
+                return compareDate;
+            });
         }
         public void SeachingByBookName(List<AptechBook> aptechbook1)
         {
@@ -99,7 +99,6 @@ namespace QL_Sach
             {
                 Console.WriteLine("khong tim thay!");
             }
-            
         }
         public void Show_Menu()
         {
@@ -107,7 +106,7 @@ namespace QL_Sach
             Console.WriteLine("2. Hien thi thong tin vua nhap");
             Console.WriteLine("3. Sap xep thong tin giam dan theo nam xuat ban va hien thi");
             Console.WriteLine("4. Tim kiem theo ten sach");
-            Console.WriteLine("5. Tim kiem theo ten tac gia");
+            Console.WriteLine("5. Tim kiem theo ten tac gia"); 
             Console.WriteLine("6. Thoat");
         }
         public void Giao_Tiep()

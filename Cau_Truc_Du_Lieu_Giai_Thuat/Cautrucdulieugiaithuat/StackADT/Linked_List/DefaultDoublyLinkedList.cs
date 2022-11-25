@@ -19,7 +19,7 @@ namespace StackADT
         {
             Node<T> current = head;
             while (current != null)
-            {
+            { 
                 Node<T> nextNode = current.Next;
                 current.Next = null;
                 current.Prey = null;
@@ -81,17 +81,17 @@ namespace StackADT
             head = head.Next;   //Tiến hành xóa thằng đầu tiên
             size--; //đồng thời giảm số lượng phần tử lại
             if (isEmpty()) tail = null; //Nếu trường hợp sau khi xóa xong mà ds rỗng thì set cho tail về null luôn
-            else head.Prey = null;
+            else head.Prey = null;  // Cho thằng trước nó về null vì ta đã xóa nó
             return data;
         }
         public T removeLast()
         {
             if (isEmpty()) throw new Exception("Empty linked list!");
             T data = tail.data;
-            tail = tail.Prey;
+            tail = tail.Prey;   // Cập nhật thằng trước nó là thằng cuối cùng
             size--;
             if (isEmpty()) head = null;
-            else tail.Next = null;
+            else tail.Next = null;  // Cho thằng trước thằng cuối cùng trỏ đến null
             return data;
         }
         public T remove(Node<T> node)
@@ -146,7 +146,7 @@ namespace StackADT
             if (index < 0 || index > size) throw new ArgumentOutOfRangeException("index");
             Node<T> current;
             int i = 0;
-            if (index < size / 2)
+            if (index < size / 2) 
             {
                 current = head;
                 while (i != index)

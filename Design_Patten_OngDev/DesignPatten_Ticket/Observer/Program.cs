@@ -19,6 +19,8 @@ namespace Observer
              */
 
 
+
+            // Khi ta thông báo cho đối tượng videoData thì nó sẽ cập nhật thông báo đến tấc cả các phần tử khác có liên quan đến videoData
             var videoData = new VideoData();
 
             _ = new EmailNotifier(videoData);   //Tạo ra một đối tượng nhưng không lưu lại, nó chỉ được thực hiện một lần ngay từ khi tạo nó
@@ -27,7 +29,7 @@ namespace Observer
 
             videoData.SetTitle("Observer Design Patten");
 
-            videoData.DetachObserver(youtubeNotifier);
+            videoData.DetachObserver(youtubeNotifier);  // Tiến hành xóa đi một phần tử
             Console.WriteLine("============================================");
             videoData.SetDecription("OngDev is Video");
             _ = new FaceBookNotifier(videoData);

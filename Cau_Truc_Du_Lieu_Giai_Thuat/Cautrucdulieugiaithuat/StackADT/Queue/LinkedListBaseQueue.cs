@@ -6,6 +6,7 @@ namespace StackADT.Queue
 {
     internal class LinkedListBaseQueue<T>:QueueADT<T>
     {
+        // Sử dụng DoublyLinkedList của Forder Linked_List 
         private DoublyLinkedList<T> list = new DefaultDoublyLinkedList<T>();
         public LinkedListBaseQueue(T element)
         {

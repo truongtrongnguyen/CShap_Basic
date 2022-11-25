@@ -1,104 +1,69 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="BT_OOP.Bran_Food" Collapsed="true">
+  <Class Name="BT_OOP.Base.Bran_Food" Collapsed="true">
     <Position X="0.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Bran_Food.cs</FileName>
+      <FileName>ListFood\Bran_Food.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BT_OOP.Chicken" Collapsed="true">
-    <Position X="2.75" Y="4.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Chicken.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BT_OOP.Constanst" Collapsed="true">
-    <Position X="9.75" Y="0.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AEAACACFAgAQACgAAAgCAEEAAAAABAQIAAABAACQBAA=</HashCode>
-      <FileName>Constanst.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BT_OOP.Corn_Food" Collapsed="true">
+  <Class Name="BT_OOP.Base.Corn_Food" Collapsed="true">
     <Position X="5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Corn_Food.cs</FileName>
+      <FileName>ListFood\Corn_Food.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BT_OOP.Cow" Collapsed="true">
+  <Class Name="BT_OOP.Base.Cow" Collapsed="true">
     <Position X="0.5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Cow.cs</FileName>
+      <FileName>ListAnimal\Cow.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BT_OOP.Dog" Collapsed="true">
+  <Class Name="BT_OOP.Base.Dog" Collapsed="true">
     <Position X="5" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Dog.cs</FileName>
+      <FileName>ListAnimal\Dog.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BT_OOP.Farming_contronller" Collapsed="true">
+  <Class Name="BT_OOP.Base.Farming_contronller" Collapsed="true">
     <Position X="11.75" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAIAAAAAAAAQAiIAAAIKAQAACAEAQAAAAIAkAAAAAAI=</HashCode>
       <FileName>Farming_contronller.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BT_OOP.FarmingAnimal" Collapsed="true">
-    <Position X="3.75" Y="3.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAI=</HashCode>
-      <FileName>FarmingAnimal.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BT_OOP.FarmingAnimalcontroler" Collapsed="true">
-    <Position X="9.75" Y="3.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AQAAAAAgAIAAAAAAAAAAAAAAAAAAAAAAAQAAMAAAAgA=</HashCode>
-      <FileName>FarmingAnimalcontroler.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BT_OOP.Food" Collapsed="true">
-    <Position X="3.75" Y="0.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAABAAAAASAAAAAAIAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Food.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="BT_OOP.Giao_dien" Collapsed="true">
+  <Class Name="BT_OOP.Base.Giao_dien" Collapsed="true">
     <Position X="9.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAABABAAAAAAAAAAAAAAAAAAAAgIAAAIAAAAgACAAAA=</HashCode>
       <FileName>Giao_dien.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BT_OOP.Grass_Food" Collapsed="true">
+  <Class Name="BT_OOP.Base.Grass_Food" Collapsed="true">
     <Position X="7.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Grass_Food.cs</FileName>
+      <FileName>ListFood\Grass_Food.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BT_OOP.Meat_Food" Collapsed="true">
+  <Class Name="BT_OOP.Base.Meat_Food" Collapsed="true">
     <Position X="2.75" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Meat_Food.cs</FileName>
+      <FileName>ListFood\Meat_Food.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BT_OOP.Pig" Collapsed="true">
+  <Class Name="BT_OOP.Base.Pig" Collapsed="true">
     <Position X="7.25" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Pig.cs</FileName>
+      <FileName>ListAnimal\Pig.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="BT_OOP.Program" Collapsed="true">
+  <Class Name="BT_OOP.Base.Program" Collapsed="true">
     <Position X="11.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>

@@ -43,20 +43,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bran_Food.cs" />
-    <Compile Include="Chicken.cs" />
-    <Compile Include="Constanst.cs" />
-    <Compile Include="Corn_Food.cs" />
-    <Compile Include="Cow.cs" />
-    <Compile Include="FarmingAnimal.cs" />
-    <Compile Include="Dog.cs" />
+    <Compile Include="Base\Food.cs" />
+    <Compile Include="ListFood\Bran_Food.cs" />
+    <Compile Include="ListAnimal\Chicken.cs" />
+    <Compile Include="Base\Constanst.cs" />
+    <Compile Include="ListFood\Corn_Food.cs" />
+    <Compile Include="ListAnimal\Cow.cs" />
+    <Compile Include="Base\FarmingAnimal.cs" />
+    <Compile Include="ListAnimal\Dog.cs" />
     <Compile Include="FarmingAnimalcontroler.cs" />
     <Compile Include="Farming_contronller.cs" />
-    <Compile Include="Food.cs" />
     <Compile Include="Giao_dien.cs" />
-    <Compile Include="Grass_Food.cs" />
-    <Compile Include="Meat_Food.cs" />
-    <Compile Include="Pig.cs" />
+    <Compile Include="ListFood\Grass_Food.cs" />
+    <Compile Include="ListFood\Meat_Food.cs" />
+    <Compile Include="ListAnimal\Pig.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -6,3 +6,11 @@ D:\Code C#\File_co_ban_Xuanlab\File_co_ban\File_co_ban\obj\Debug\File_co_ban.csp
 D:\Code C#\File_co_ban_Xuanlab\File_co_ban\File_co_ban\obj\Debug\File_co_ban.csproj.CoreCompileInputs.cache
 D:\Code C#\File_co_ban_Xuanlab\File_co_ban\File_co_ban\obj\Debug\File_co_ban.exe
 D:\Code C#\File_co_ban_Xuanlab\File_co_ban\File_co_ban\obj\Debug\File_co_ban.pdb
+D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\File_co_ban\bin\Debug\File_co_ban.exe.config
+D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\File_co_ban\bin\Debug\File_co_ban.exe
+D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\File_co_ban\bin\Debug\File_co_ban.pdb
+D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\File_co_ban\obj\Debug\File_co_ban.csproj.AssemblyReference.cache
+D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\File_co_ban\obj\Debug\File_co_ban.csproj.SuggestedBindingRedirects.cache
+D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\File_co_ban\obj\Debug\File_co_ban.csproj.CoreCompileInputs.cache
+D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\File_co_ban\obj\Debug\File_co_ban.exe
+D:\Code_C#\Code_C-\File_co_ban_Xuanlab\File_co_ban\File_co_ban\obj\Debug\File_co_ban.pdb

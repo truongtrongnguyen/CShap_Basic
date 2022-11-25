@@ -201,32 +201,32 @@ namespace BT_co_ban
         /// </summary>
         /// <param name="a"></param>
      
-        static void Khoitaomang(int[,]a)
-        {
-            Random random = new Random(); //Để Random ở đây để tạo ra các số khác nhau
-            for(int i=0;i<a.GetLength(0);i++)//a.GetLength(0) -> Độ dài của dòng
+            static void Khoitaomang(int[,]a)
             {
-                for(int j=0;j<a.GetLength(1);j++)
+                Random random = new Random(); //Để Random ở đây để tạo ra các số khác nhau
+                for(int i=0;i<a.GetLength(0);i++)//a.GetLength(0) -> Độ dài của dòng
                 {
-                    a[i, j] =random.Next(0, 70);
+                    for(int j=0;j<a.GetLength(1);j++)
+                    {
+                        a[i, j] =random.Next(0, 70);
+                    }
                 }
             }
-        }
-        /// <summary>
-        /// Hàm xuất mảng 
-        /// </summary>
-        /// <param name="a"></param>
-        static void Xuatmang(int[,]a)
-        {
-            for(int i=0;i<a.GetLength(0);i++)
+            /// <summary>
+            /// Hàm xuất mảng 
+            /// </summary>
+            /// <param name="a"></param>
+            static void Xuatmang(int[,]a)
             {
-                for(int j=0;j<a.GetLength(1);j++)
+                for(int i=0;i<a.GetLength(0);i++)
                 {
-                    Console.Write("{0, 4} ", a[i,j]);
+                    for(int j=0;j<a.GetLength(1);j++)
+                    {
+                        Console.Write("{0, 4} ", a[i,j]);
+                    }
+                    Console.WriteLine();
                 }
-                Console.WriteLine();
             }
-        }
         static void Taomang()
         {
             int[,] a = new int[20, 20];

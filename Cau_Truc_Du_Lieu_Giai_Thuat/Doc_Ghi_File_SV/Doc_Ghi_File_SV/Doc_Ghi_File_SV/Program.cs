@@ -12,7 +12,7 @@ namespace Doc_Ghi_File_SV
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\DELL\Desktop\123.txt";
+            string path = @"C:\Users\DELL\Desktop\456.txt";
             Doc_File d = new Doc_File();
             Controller controller = new Controller();
             FileStream fs = null;

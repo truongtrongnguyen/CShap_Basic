@@ -20,7 +20,6 @@ namespace Doc_Ghi_File_SV
                 l.pHead = l.pHead.pNext;
                 p = null;
                 return;
-
             }
             else
             {
